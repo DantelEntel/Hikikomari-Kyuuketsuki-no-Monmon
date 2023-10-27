@@ -1,0 +1,968 @@
+[Script Info]
+Title: Dantel Entel
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: Alternative,Cabin,73,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: Opening,Big Bimbo NC,70,&H00FAFFFD,&H00331CE3,&H004B343D,&H00331CE3,-1,0,0,0,100,90,3,0,1,3,1,9,30,30,25,1
+Style: vuaTS,Iwata Mincho Old Pro-TR,85,&H00FFFFFF,&H000000FF,&H00000000,&H34030310,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: Einherjar}{Redaksiyon: MubaREKT}{Yazı Dizimi: Vuats}{Şarkılar: Prenses}{Son Kontrol: Fei}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:12.40,0:00:14.49,Default,,0,0,0,,Hay sikeyim, yine mi büyü?!
+Dialogue: 20,0:00:14.49,0:00:15.91,Default,,0,0,0,,Kodumu'n vampirleri!
+Dialogue: 20,0:00:15.91,0:00:17.94,Default,,0,0,0,,Onları büyü kullanamadan gebertmemiz lazı-
+Dialogue: 20,0:00:23.96,0:00:25.33,Default,,0,0,0,,Alevler, ey yüce alevler...
+Dialogue: 20,0:00:25.33,0:00:27.34,Default,,0,0,0,,Buzullar, ey yüce buzullar...
+Dialogue: 20,0:00:38.33,0:00:39.76,Default,,0,0,0,,Rapor veriyorum!
+Dialogue: 20,0:00:40.03,0:00:42.99,Default,,0,0,0,,Lapeliko Ordusu\N tamamen yok edilmiş durumda.
+Dialogue: 20,0:00:42.99,0:00:46.31,Default,,0,0,0,,Komari birliklerinin zaferi gün gibi ortadadır!
+Dialogue: 20,0:00:46.31,0:00:48.52,Default,,0,0,0,,Koyduk mu, aşağılık canavarlar sizi!
+Dialogue: 20,0:00:49.24,0:00:52.49,Default,,0,0,0,,Anlaşılan zafer kutlamalarında\N canavarların kanını içeceğiz, belli oldu.
+Dialogue: 20,0:00:52.49,0:00:54.36,Default,,0,0,0,,Kutlamalar için daha erken.
+Dialogue: 20,0:00:55.78,0:00:59.37,Default,,0,0,0,,Zaferimiz henüz kesinleşmiş değil.
+Dialogue: 20,0:00:59.37,0:01:04.37,Default,,0,0,0,,Düşmanın elinde başka kozların \Nolup olmadığı bilmeden rehavete kapılmak...
+Dialogue: 20,0:01:04.37,0:01:06.33,Default,,0,0,0,,...birliğimize yakışmaz.
+Dialogue: 20,0:01:06.33,0:01:08.11,Default,,0,0,0,,Utanın kendinizden.
+Dialogue: 20,0:01:09.37,0:01:13.94,Default,,0,0,0,,Bu savaş, Mulnite İmparatorluğu\N olarak katıldığımız ilk mücadele.
+Dialogue: 20,0:01:18.47,0:01:21.57,Default,,0,0,0,,Mağlubiyet söz konusu bile olmamalı.
+Dialogue: 20,0:01:22.47,0:01:25.28,Default,,0,0,0,,Haklıyım değil mi, Terakomari Hazretleri?
+Dialogue: 20,0:01:26.83,0:01:30.15,Default,,0,0,0,,Aynen. Haklısın, Kaostel.
+Dialogue: 20,0:01:39.03,0:01:40.58,Default,,0,0,0,,Açın kulaklarınızı, askerler!
+Dialogue: 20,0:01:40.58,0:01:44.08,Default,,0,0,0,,Ben Terakomari Gandesblood!
+Dialogue: 20,0:01:50.24,0:01:54.01,Default,,0,0,0,,Üç yıllık profesyonel bir münzeviyim{hikikomori/shut-in}.
+Dialogue: 20,0:02:11.24,0:02:14.78,Default,,0,0,0,,Dünyanın ne kadar\Nsaçma bir yer olduğunu sık sık düşünürüm.
+Dialogue: 20,0:02:17.58,0:02:22.03,Default,,0,0,0,,15 yıl önce, Mulnite İmparatorluğu'ndaki\N en soylu ailelerden biri olan...
+Dialogue: 20,0:02:22.03,0:02:24.74,Default,,0,0,0,,...Gandesblood Ailesi'nde doğdum.
+Dialogue: 20,0:02:25.45,0:02:28.20,Default,,0,0,0,,Gandesblood Ailesi bin yılı aşkın süredir...
+Dialogue: 20,0:02:28.20,0:02:31.48,Default,,0,0,0,,...imparatorluk generali ünvanını\N taşıyan saygın bir aile.
+Dialogue: 20,0:02:32.12,0:02:38.13,Default,,0,0,0,,Çevremdekilerin beklentilerini\Nkarşılayabilmek adına büyük çaba gösterdim ancak...
+Dialogue: 20,0:02:39.01,0:02:41.15,Default,,0,0,0,,...çabucak hüsrana uğrayıverdim.
+Dialogue: 20,0:02:42.51,0:02:46.56,Default,,0,0,0,,Birçok yönden yeteneksiz biriydim.
+Dialogue: 20,0:02:47.08,0:02:50.06,Default,,0,0,0,,İlk olarak, büyü kullanamıyorum.
+Dialogue: 20,0:02:50.06,0:02:53.19,Default,,0,0,0,,İkinci olarak, fiziksel kabiliyetim yok gibi bi' şey.
+Dialogue: 20,0:02:53.45,0:02:56.87,Default,,0,0,0,,Ve üçüncü olarak, kısayım.
+Dialogue: 20,0:02:56.87,0:03:01.70,Default,,0,0,0,,Bu üç talihsizliği birden taşıyor\N olmamın sebebi oldukça açık.
+Dialogue: 20,0:03:02.37,0:03:05.62,Default,,0,0,0,,Vampir olmama rağmen kan içemiyorum.
+Dialogue: 20,0:03:05.62,0:03:09.91,Default,,0,0,0,,Gelişimim için gerekli ama olmayınca olmuyor işte.
+Dialogue: 20,0:03:09.91,0:03:11.74,Default,,0,0,0,,Neyini sevmiyorsun derseniz de:
+Dialogue: 20,0:03:11.74,0:03:14.54,Default,,0,0,0,,Kokusu, görünümü... Her şeyini işte.
+Dialogue: 20,0:03:15.42,0:03:20.08,Default,,0,0,0,,İşler böyle olunca da \Nhayatımda yalnızca kötü anılarım oldu.
+Dialogue: 20,0:03:20.08,0:03:22.58,Default,,0,0,0,,Gücün her şey olduğu bir vampir toplumu...
+Dialogue: 20,0:03:22.58,0:03:26.37,Default,,0,0,0,,Bense barış yanlısı, adil bir \Nvampir olmaya yemin edip...
+Dialogue: 20,0:03:26.37,0:03:28.90,Default,,0,0,0,,...kendimi odama kapatmaya karar verdim.
+Dialogue: 20,0:03:39.37,0:03:40.61,Default,,0,0,0,,Hı?
+Dialogue: 20,0:03:42.57,0:03:44.28,Default,,0,0,0,,Mulnite milli amblemi mi?..
+Dialogue: 20,0:03:44.28,0:03:45.16,Default,,0,0,0,,Neden?
+Dialogue: 20,0:03:45.16,0:03:47.62,Default,,0,0,0,,Leydi Terakomari, \Ngünaydınlarımı sunarım.
+Dialogue: 20,0:03:47.62,0:03:50.54,Default,,0,0,0,,Ki-Kimsin sen be?!\NOdamda ne işin var?
+Dialogue: 20,0:03:50.54,0:03:52.98,Default,,0,0,0,,Öncelikle kendimi tanıtmalıydım.
+Dialogue: 20,0:03:53.45,0:03:55.54,Default,,0,0,0,,Adım Villhaze.
+Dialogue: 20,0:03:55.91,0:03:58.45,Default,,0,0,0,,Mulnite İmparatorluğu Ordusu'na aitim.
+Dialogue: 20,0:03:58.45,0:04:00.99,Default,,0,0,0,,Üçüncü tümende asteğmenim.
+Dialogue: 20,0:04:00.99,0:04:05.68,Default,,0,0,0,,Bugünden itibaren kişisel hizmetkarınız \Nolarak hizmet etmek üzere görevlendirildim.
+Dialogue: 20,0:04:07.08,0:04:08.68,Default,,0,0,0,,Yalnız...
+Dialogue: 20,0:04:10.12,0:04:14.31,Default,,0,0,0,,Affınıza sığınıyorum ancak\N epey dağınık bir odaya sahipsiniz.
+Dialogue: 20,0:04:15.70,0:04:18.02,Default,,0,0,0,,Amacın ne? Para mı?
+Dialogue: 20,0:04:18.37,0:04:20.70,Default,,0,0,0,,Korkmayın lütfen.
+Dialogue: 20,0:04:20.70,0:04:23.36,Default,,0,0,0,,Ben müttefikinizim.
+Dialogue: 20,0:04:28.24,0:04:30.48,Default,,0,0,0,,Şey, Villhaze misin nesin...
+Dialogue: 20,0:04:31.79,0:04:34.40,Default,,0,0,0,,Az bekle baki'm orada.
+Dialogue: 20,0:04:36.58,0:04:38.09,Default,,0,0,0,,Buna vaktimiz yok.
+Dialogue: 20,0:04:38.09,0:04:41.26,Default,,0,0,0,,Acilen benimle saraya gelmelisiniz.
+Dialogue: 20,0:04:41.26,0:04:43.68,Default,,0,0,0,,Bırak beni! Çişimi yapmam lazım!
+Dialogue: 20,0:04:43.68,0:04:46.03,Default,,0,0,0,,İşemenin sırası değil.
+Dialogue: 20,0:04:46.03,0:04:48.10,Default,,0,0,0,,Sözümü dinleyin lütfen.
+Dialogue: 20,0:04:48.10,0:04:49.95,Default,,0,0,0,,Bırakırım bak! Bırakayım mı buraya?!
+Dialogue: 20,0:04:49.95,0:04:51.45,Default,,0,0,0,,Bırakırken de dinleyebilirsiniz.
+Dialogue: 20,0:04:51.45,0:04:53.02,Default,,0,0,0,,Çok sapıkça olur bu ama!
+Dialogue: 20,0:04:53.02,0:04:55.24,Default,,0,0,0,,Vaktimiz yok, uslu olun lütfen.
+Dialogue: 20,0:04:55.24,0:04:57.61,Default,,0,0,0,,Olmaz! Kaçırmaya gelmişsindir zaten beni!
+Dialogue: 20,0:04:57.61,0:05:00.36,Default,,0,0,0,,Yüz milyon yılda bir gelen \Nbir güzellik olduğum için tabii!
+Dialogue: 20,0:05:00.36,0:05:02.36,Default,,0,0,0,,Kendinize diyebileceğiniz bir şey mi o?
+Dialogue: 20,0:05:04.03,0:05:06.15,Default,,0,0,0,,Bırak gitsin, Vill.
+Dialogue: 20,0:05:08.12,0:05:09.78,Default,,0,0,0,,Ooo, Komari!
+Dialogue: 20,0:05:09.78,0:05:12.04,Default,,0,0,0,,Yaralandın mı bakayım?
+Dialogue: 20,0:05:13.37,0:05:15.92,Default,,0,0,0,,O-Off... Ölce'm...
+Dialogue: 20,0:05:15.92,0:05:19.15,Default,,0,0,0,,Onu boş ver şimdi baba! Bu da kim oluyor?!
+Dialogue: 20,0:05:21.66,0:05:25.80,Default,,0,0,0,,Kendisi bugünden itibaren \Nkişisel hizmetkarın olacak.
+Dialogue: 20,0:05:25.80,0:05:28.28,Default,,0,0,0,,Hizmetçiye falan ihtiyacım yok ki.
+Dialogue: 20,0:05:28.28,0:05:30.43,Default,,0,0,0,,Hem de böyle korkunç birine...
+Dialogue: 20,0:05:30.43,0:05:35.19,Default,,0,0,0,,Yapacak bir şey yok.\NKararı Majesteleri verdi.
+Dialogue: 20,0:05:35.19,0:05:37.27,Default,,0,0,0,,Majesteleri mi? Nasıl yani?
+Dialogue: 20,0:05:37.66,0:05:40.02,Default,,0,0,0,,Açıklamama izin verin.
+Dialogue: 20,0:05:41.61,0:05:42.78,Default,,0,0,0,,Leydi Terakomari.
+Dialogue: 20,0:05:42.78,0:05:44.74,Default,,0,0,0,,Yedi Kızıl Lort'u bilir misiniz?
+Dialogue: 20,0:05:44.74,0:05:46.91,Default,,0,0,0,,Ne alaka şimdi bu?
+Dialogue: 20,0:05:46.91,0:05:48.70,Default,,0,0,0,,Yani biliyorum da...
+Dialogue: 20,0:05:49.37,0:05:51.33,Default,,0,0,0,,Yedi Kızıl Lort...
+Dialogue: 20,0:05:51.33,0:05:57.08,Default,,0,0,0,,Mulnite Ordusu'nu yöneten, vampirler\N arasındaki en korkusuz, en güçlü kişiler.
+Dialogue: 20,0:05:57.08,0:05:58.92,Default,,0,0,0,,Siz de onlardan biri oldunuz.
+Dialogue: 20,0:06:00.74,0:06:01.96,Default,,0,0,0,,Hı?
+Dialogue: 20,0:06:01.96,0:06:06.03,Default,,0,0,0,,Geçenlerde sana \N"Artık bir işe mi girsen?" dediğimde...
+Dialogue: 20,0:06:06.03,0:06:07.68,Default,,0,0,0,,...şöyle demiştin ya hani:
+Dialogue: 20,0:06:08.12,0:06:11.69,Default,,0,0,0,,Yani, tahta geçebileceksem olur aslında.
+Dialogue: 20,0:06:13.43,0:06:16.16,Default,,0,0,0,,Çok etkilendim!
+Dialogue: 20,0:06:16.16,0:06:18.62,Default,,0,0,0,,Ben de geçen gidip ekselanslarına dedim ki:
+Dialogue: 20,0:06:18.62,0:06:21.44,Default,,0,0,0,,"Lütfen tahtı Komari'ye devredin".
+Dialogue: 20,0:06:21.70,0:06:23.19,Default,,0,0,0,,Mal mısın sen?!
+Dialogue: 20,0:06:23.19,0:06:25.20,Default,,0,0,0,,Senin için yaptım hep.
+Dialogue: 20,0:06:25.20,0:06:27.37,Default,,0,0,0,,Sonra da küplere binen ekselanslarına...
+Dialogue: 20,0:06:27.37,0:06:29.17,Default,,0,0,0,,...ne büyük bir deha olduğunu ve...
+Dialogue: 20,0:06:29.17,0:06:33.74,Default,,0,0,0,,...yüz milyon yılda bir gelen\N bir güzellik olduğunu anlattım!
+Dialogue: 20,0:06:33.74,0:06:37.25,Default,,0,0,0,,Ben öyle deyince ekselansları da "İlginç" dedi.
+Dialogue: 20,0:06:37.25,0:06:38.87,Default,,0,0,0,,Nesi ilginç lan!
+Dialogue: 20,0:06:38.87,0:06:41.37,Default,,0,0,0,,Sonra da ekselansları seninle bir sözleşme yapıp...
+Dialogue: 20,0:06:41.37,0:06:44.58,Default,,0,0,0,,...seni Kızıl Lortlardan biri olarak atadı.
+Dialogue: 20,0:06:44.58,0:06:47.84,Default,,0,0,0,,Şey, o sözleşmeyi tam çıkaramadım şimdi ama...
+Dialogue: 20,0:06:47.84,0:06:50.05,Default,,0,0,0,,Dün gece odaya sızdı.
+Dialogue: 20,0:06:50.05,0:06:51.01,Default,,0,0,0,,Kim?
+Dialogue: 20,0:06:51.01,0:06:51.80,Default,,0,0,0,,Majesteleri.
+Dialogue: 20,0:06:51.80,0:06:52.72,Default,,0,0,0,,Hı?
+Dialogue: 20,0:06:53.41,0:06:57.73,Default,,0,0,0,,Sizi uykunuzda öperek sözleşmeyi mühürledi.
+Dialogue: 20,0:06:59.98,0:07:03.36,Default,,0,0,0,,{\t(#start,#end,\fs100)}Neeeee?!
+Dialogue: 20,0:07:03.36,0:07:07.24,Default,,0,0,0,,Vay, vay, vay! İyi ki geldin, Komariciğim!
+Dialogue: 20,0:07:07.24,0:07:08.91,Default,,0,0,0,,Her zamanki gibi çok tatlışsın!
+Dialogue: 20,0:07:08.91,0:07:10.83,Default,,0,0,0,,Seni burada gördüğümüze çok sevindik!
+Dialogue: 20,0:07:10.83,0:07:14.16,Default,,0,0,0,,B-Benim için bir onurdur ama... Şey, Majesteleri...
+Dialogue: 20,0:07:14.16,0:07:15.95,Default,,0,0,0,,Biraz fazla yakın değil misiniz?
+Dialogue: 20,0:07:15.95,0:07:20.40,Default,,0,0,0,,Bu arada memişlerini \Nmıncıklamak isteriz, uygun mudur?
+Dialogue: 20,0:07:21.50,0:07:24.44,Default,,0,0,0,,Majesteleri, şakanın dozunu kaçırmayalım lütfen.
+Dialogue: 20,0:07:24.95,0:07:26.24,Default,,0,0,0,,Ağlayacak yoksa.
+Dialogue: 20,0:07:26.24,0:07:27.96,Default,,0,0,0,,Şaka yapıyorum yahu!
+Dialogue: 20,0:07:27.96,0:07:30.83,Default,,0,0,0,,Biz duygulara çok önem veren tiplerdeniz.
+Dialogue: 20,0:07:30.83,0:07:33.43,Default,,0,0,0,,Sen isteyene dek memişlerini rahat bırakacağız.
+Dialogue: 20,0:07:33.70,0:07:35.31,Default,,0,0,0,,Öptün ama, di'mi?
+Dialogue: 20,0:07:39.12,0:07:41.28,Default,,0,0,0,,Ne de komiksin!
+Dialogue: 20,0:07:41.28,0:07:43.44,Default,,0,0,0,,Resmi konuşmak sana yakışmıyor.
+Dialogue: 20,0:07:43.78,0:07:48.36,Default,,0,0,0,,Bundan böyle sanki 10 yıllık \Narkadaşlarmışızcasına davran bize.
+Dialogue: 20,0:07:48.36,0:07:51.53,Default,,0,0,0,,Benim hiç arkadaşım falan olmadı ki.
+Dialogue: 20,0:07:52.95,0:07:56.16,Default,,0,0,0,,Pekala, Terakomari Gandesblood.
+Dialogue: 20,0:07:56.62,0:07:59.29,Default,,0,0,0,,Seni buraya yalnızca tek bir sebepten çağırdım.
+Dialogue: 20,0:08:02.41,0:08:05.91,Default,,0,0,0,,Kızıl Lort olduktan sonra dikkat \Nedilmesi gerekenler köşesi başlasın!
+Dialogue: 20,0:08:05.91,0:08:08.12,Default,,0,0,0,,Hop hop! Yehu yehuu!
+Dialogue: 20,0:08:08.12,0:08:09.76,Default,,0,0,0,,O tablo ne be öyle?!
+Dialogue: 20,0:08:09.76,0:08:12.70,Default,,0,0,0,,Kızıl Lortların uymaları \Ngereken yalnızca bir kural var:
+Dialogue: 20,0:08:12.70,0:08:16.37,Default,,0,0,0,,Her üç ayda bir, farklı bir ulusla\N savaşa girip kazanmak zorundalar.
+Dialogue: 20,0:08:16.37,0:08:18.70,Default,,0,0,0,,Üstelik, 100 savaş kazanırlarsa...
+Dialogue: 20,0:08:18.70,0:08:21.62,Default,,0,0,0,,...bir sonraki imparator olmak için \Nadaylık hakkı kazanabilirler!
+Dialogue: 20,0:08:21.62,0:08:23.90,Default,,0,0,0,,Biraz imkansız sanki bu.
+Dialogue: 20,0:08:23.90,0:08:27.33,Default,,0,0,0,,Öte yandan, savaşlarda yenilgiye uğrayıp durursa...
+Dialogue: 20,0:08:27.33,0:08:28.49,Default,,0,0,0,,Kellem mi gider yoksa?!
+Dialogue: 20,0:08:28.49,0:08:30.91,Default,,0,0,0,,Aynen! Patlarsın ve kellen de uçar gider!
+Dialogue: 20,0:08:30.91,0:08:32.24,Default,,0,0,0,,Dalga mı geçiyo'sun?!
+Dialogue: 20,0:08:32.24,0:08:33.95,Default,,0,0,0,,Ümitlerimi söndürmesene!
+Dialogue: 20,0:08:33.95,0:08:35.24,Default,,0,0,0,,Endişelenme.
+Dialogue: 20,0:08:35.24,0:08:38.87,Default,,0,0,0,,Yanında yedinci tümenden 500 adet asker olacak.
+Dialogue: 20,0:08:38.87,0:08:41.28,Default,,0,0,0,,Fakat üstlerinin güçsüz\N biri olduğunu anladıkları an...
+Dialogue: 20,0:08:41.28,0:08:44.95,Default,,0,0,0,,...onun yerine geçebilmek adına\Nkellesini almaya gelecek heriflerle dolu, ona göre.
+Dialogue: 20,0:08:44.95,0:08:47.20,Default,,0,0,0,,Bildiğin düşmanım olmuyorlar mı o zaman!
+Dialogue: 20,0:08:47.20,0:08:49.30,Default,,0,0,0,,Nasıl endişelenmiyi'm!?
+Dialogue: 20,0:08:49.30,0:08:55.26,Default,,0,0,0,,Bu dünyadaki bütün vampirlerin\N derdi yükselmektir sonuçta.
+Dialogue: 20,0:08:55.74,0:08:57.53,Default,,0,0,0,,Komari...
+Dialogue: 20,0:08:57.53,0:09:00.02,Default,,0,0,0,,Aslında epey güçsüz birisin, di'mi?
+Dialogue: 20,0:09:05.48,0:09:07.27,Default,,0,0,0,,Evet, çok güçsüzüm hem de!
+Dialogue: 20,0:09:07.27,0:09:09.90,Default,,0,0,0,,Ölmek şey di'mi işte... Feci acı verici, di'mi?
+Dialogue: 20,0:09:09.90,0:09:12.57,Default,,0,0,0,,Serçe parmağını komodin köşesine\N çarpmaktan daha beter, di'mi?
+Dialogue: 20,0:09:12.57,0:09:13.99,Default,,0,0,0,,Ölmek istemiyorsun yani?
+Dialogue: 20,0:09:13.99,0:09:15.86,Default,,0,0,0,,Tabii istemiyorum!
+Dialogue: 20,0:09:16.12,0:09:18.33,Default,,0,0,0,,O zaman sır olarak kalması gerekecek.
+Dialogue: 20,0:09:18.33,0:09:20.03,Default,,0,0,0,,Ne olursa olsun...
+Dialogue: 20,0:09:20.03,0:09:23.53,Default,,0,0,0,,...astlarının önünde mutlak güç \Nsahibi biri gibi davranman gerek.
+Dialogue: 20,0:09:23.53,0:09:26.08,Default,,0,0,0,,Bunun için yanındaki hizmetçi \Nsana destek olacak.
+Dialogue: 20,0:09:26.53,0:09:29.08,Default,,0,0,0,,Her şeyi bana bırakın, Leydi Komari.
+Dialogue: 20,0:09:29.08,0:09:32.62,Default,,0,0,0,,Hepsini kandıracağız.
+Dialogue: 20,0:09:32.62,0:09:34.34,Default,,0,0,0,,Hiç rahatlatmadı nedense...
+Dialogue: 20,0:09:36.37,0:09:39.22,Default,,0,0,0,,Beni indirmeye çalışmayacaksın, di'mi Vill?
+Dialogue: 20,0:09:39.22,0:09:40.78,Default,,0,0,0,,Hayır tabii.
+Dialogue: 20,0:09:40.78,0:09:44.39,Default,,0,0,0,,Sizi evrendeki herkesten \Nçok daha fazla seviyorum ben.
+Dialogue: 20,0:09:44.39,0:09:45.95,Default,,0,0,0,,Yalanı kes.
+Dialogue: 20,0:09:45.95,0:09:47.90,Default,,0,0,0,,Daha yeni tanıştık.
+Dialogue: 20,0:09:52.62,0:09:55.28,Default,,0,0,0,,Size çok yakışmış, Leydi Komari.
+Dialogue: 20,0:09:55.28,0:09:56.95,Default,,0,0,0,,S-Sahi mi?!
+Dialogue: 20,0:09:56.95,0:10:01.16,Default,,0,0,0,,Yani, öyle durmasam da yüz milyon yılda\Nbir gelen nadir bir güzelliğim sonuçta.
+Dialogue: 20,0:10:01.16,0:10:03.16,Default,,0,0,0,,Ne giysem yakışır tabii.
+Dialogue: 20,0:10:03.16,0:10:06.03,Default,,0,0,0,,Muhteşem, çok tatlısınız.
+Dialogue: 20,0:10:06.03,0:10:09.66,Default,,0,0,0,,Madem öyle, döndüğümüzde başrolü\N olacağınız bir defile başlatalım mı?
+Dialogue: 20,0:10:09.66,0:10:11.46,Default,,0,0,0,,Nasıl yapacağız onu, salak.
+Dialogue: 20,0:10:17.45,0:10:19.66,Default,,0,0,0,,Pekala, Leydi Komari.
+Dialogue: 20,0:10:19.66,0:10:22.58,Default,,0,0,0,,Emrinizde çalışacak askerler\N içeride sizi bekliyor.
+Dialogue: 20,0:10:22.58,0:10:24.43,Default,,0,0,0,,T-Tabii...
+Dialogue: 20,0:10:28.53,0:10:33.57,Default,,0,0,0,,Bi' milyon ton falan var herhalde bu kapı be!
+Dialogue: 20,0:10:33.57,0:10:37.53,Default,,0,0,0,,Mümkün değil. Sıradan bir \Nvampirin açabileceği bir kapı.
+Dialogue: 20,0:10:37.53,0:10:40.82,Default,,0,0,0,,Kusura bakma ya,\N biraz fazla güçsüzüm de!
+Dialogue: 20,0:10:42.08,0:10:43.99,Default,,0,0,0,,Başarabilirsiniz, Leydi Komari.
+Dialogue: 20,0:10:43.99,0:10:46.74,Default,,0,0,0,,Lan! Dikilip durma orada!
+Dialogue: 20,0:10:46.74,0:10:48.50,Default,,0,0,0,,Yardım et!
+Dialogue: 20,0:10:49.25,0:10:50.12,Default,,0,0,0,,Aha, açıld-
+Dialogue: 20,0:10:50.12,0:10:55.96,Default,,0,0,0,,Geber, Majesteleri!
+Dialogue: 20,0:11:03.16,0:11:05.14,Default,,0,0,0,,Leydi Komari, iyi misiniz?
+Dialogue: 20,0:11:05.14,0:11:06.89,Default,,0,0,0,,İ-İ-İ-İ-İ...
+Dialogue: 20,0:11:06.89,0:11:09.98,Default,,0,0,0,,İy-İy-İyiyim...
+Dialogue: 20,0:11:12.37,0:11:14.28,Default,,0,0,0,,Geçti, geçti. Uslu kız.
+Dialogue: 20,0:11:14.28,0:11:15.74,Default,,0,0,0,,N-N'apıcam şimdi?
+Dialogue: 20,0:11:15.74,0:11:18.83,Default,,0,0,0,,Aşırı güçsüz biri olduğumu fark ettiler galiba...
+Dialogue: 20,0:11:18.83,0:11:20.53,Default,,0,0,0,,Endişelenmeyin.
+Dialogue: 20,0:11:20.53,0:11:23.62,Default,,0,0,0,,Küstah bir isyancıya karşı zafer elde ettiniz.
+Dialogue: 20,0:11:23.99,0:11:25.62,Default,,0,0,0,,Vill, yoksa...
+Dialogue: 20,0:11:25.62,0:11:26.99,Default,,0,0,0,,Öldü.
+Dialogue: 20,0:11:26.99,0:11:28.00,Default,,0,0,0,,Öldü mü?!
+Dialogue: 20,0:11:28.00,0:11:30.45,Default,,0,0,0,,Off ya... Nasıl öldü ki?
+Dialogue: 20,0:11:30.45,0:11:33.03,Default,,0,0,0,,Çiçek falan mı bıraksam yanına?..
+Dialogue: 20,0:11:33.03,0:11:37.08,Default,,0,0,0,,Böyle ahmakların cesedine tükürseniz yeter.
+Dialogue: 20,0:11:37.08,0:11:39.13,Default,,0,0,0,,Onu boş verin, gidelim.
+Dialogue: 20,0:11:39.13,0:11:40.99,Default,,0,0,0,,Askerler bekliyor.
+Dialogue: 20,0:11:40.99,0:11:42.39,Default,,0,0,0,,D-Doğru...
+Dialogue: 20,0:11:47.95,0:11:50.89,Default,,0,0,0,,Daha ilk günden \Nöldürülmeye mi çalışıldım cidden?
+Dialogue: 20,0:11:51.70,0:11:55.23,Default,,0,0,0,,Canlı çıkabilecek miyim buradan?..
+Dialogue: 20,0:12:15.67,0:12:19.17,Default,,0,0,0,,Ekselansları, tamamıyla ikna oldum.
+Dialogue: 20,0:12:19.17,0:12:21.78,Default,,0,0,0,,Yedinci tümen arasında bile\Nsıcak kanlı sayılabilecek...
+Dialogue: 20,0:12:21.78,0:12:27.43,Default,,0,0,0,,...Yohan Helders'ı tek bir darbede \Nindirebilmeniz büyük başarı.
+Dialogue: 20,0:12:29.03,0:12:33.44,Default,,0,0,0,,O seviye vampirleri serçe \Nparmağımla bile alt ederim ben!
+Dialogue: 20,0:12:33.44,0:12:34.78,Default,,0,0,0,,Yok artık, ciddi mi bu?
+Dialogue: 20,0:12:34.78,0:12:35.62,Default,,0,0,0,,İmkansız...
+Dialogue: 20,0:12:35.62,0:12:37.36,Default,,0,0,0,,Yeni kumandan fena...
+Dialogue: 20,0:12:37.83,0:12:39.66,Default,,0,0,0,,Bu arada, Leydi Komari...
+Dialogue: 20,0:12:39.66,0:12:44.16,Default,,0,0,0,,...çocukluğunda yüz adet vampiri \Ntek serçe parmağıyla öldürmüştü.
+Dialogue: 20,0:12:44.16,0:12:46.28,Default,,0,0,0,,Eğer ciddileşirse...
+Dialogue: 20,0:12:46.28,0:12:50.33,Default,,0,0,0,,...buradaki herkesi beş saniye \Niçinde katletmesi mümkün.
+Dialogue: 20,0:12:50.33,0:12:53.66,Default,,0,0,0,,Hay senin! Karışmasana durduk yere!
+Dialogue: 20,0:12:53.66,0:12:56.48,Default,,0,0,0,,Yalan olduğu fazla bariz!
+Dialogue: 20,0:12:58.12,0:13:00.20,Default,,0,0,0,,Lan! İndir o parmağı çabuk!
+Dialogue: 20,0:13:00.20,0:13:02.47,Default,,0,0,0,,Bi' işe yaramadın ki!
+Dialogue: 20,0:13:03.20,0:13:08.35,Default,,0,0,0,,Öhö öhö, boş verin şimdi onu.\NKendimi tanıtma vaktim geldi sanırım.
+Dialogue: 20,0:13:08.35,0:13:10.47,Default,,0,0,0,,Elbette! Nasıl isterseniz!
+Dialogue: 20,0:13:10.47,0:13:12.08,Default,,0,0,0,,Yedinci tümen...
+Dialogue: 20,0:13:12.08,0:13:15.23,Default,,0,0,0,,Hayır, Kumandan Komari'nin askerleri olarak...
+Dialogue: 20,0:13:15.23,0:13:19.23,Default,,0,0,0,,...Ekselansları'nın kim olduğunu \Nöğrenmeyi yürekten arzuluyoruz.
+Dialogue: 20,0:13:28.24,0:13:29.62,Default,,0,0,0,,Askerler!
+Dialogue: 20,0:13:29.62,0:13:35.00,Default,,0,0,0,,Ben Yedi Kızıl Lortların yeni üyesi, \NTerakomari Gandesblood!
+Dialogue: 20,0:13:35.00,0:13:37.70,Default,,0,0,0,,Yeni kumandanınız olduğuma göre...
+Dialogue: 20,0:13:37.70,0:13:41.44,Default,,0,0,0,,...şu andan itibaren eskisi gibi huzurlu\Nbir hayatınızın olmayacağını bil-
+Dialogue: 20,0:13:47.51,0:13:50.53,Default,,0,0,0,,Leydi Komari gerginliğinden ötürü dilini ısırdı.
+Dialogue: 20,0:13:50.53,0:13:52.37,Default,,0,0,0,,Nasıl ama? Çok tatlı, di'mi?
+Dialogue: 20,0:13:52.37,0:13:54.77,Default,,0,0,0,,Durumu daha da beter ettin be! Destek çıksana!
+Dialogue: 20,0:13:56.74,0:14:00.77,Default,,0,0,0,,Şu andan itibaren eskisi gibi huzurlu \Nbir hayatınızın olmayacağını bilesiniz!
+Dialogue: 20,0:14:00.77,0:14:03.15,Default,,0,0,0,,Bundan böyle her gün savaşacağız!
+Dialogue: 20,0:14:03.40,0:14:05.15,Default,,0,0,0,,Dökülen kanlar asla durmayacak!
+Dialogue: 20,0:14:05.15,0:14:07.36,Default,,0,0,0,,Her gün katliam yapacağız!
+Dialogue: 20,0:14:07.36,0:14:11.95,Default,,0,0,0,,Ama endişelenmeyesiniz, tek gereken\N çenenizi kapayıp dediğimi yapmak!
+Dialogue: 20,0:14:11.95,0:14:15.50,Default,,0,0,0,,Asla beni indirmeye çalışmak gibi \Naptalca fikirleriniz olmasın!
+Dialogue: 20,0:14:15.50,0:14:22.86,Default,,0,0,0,,Tek yapmanız gereken tatlı, kudretli ve \Nbir deha olan efendinize itaat etmek!
+Dialogue: 20,0:14:24.17,0:14:25.49,Default,,0,0,0,,Sözüm olsun size!
+Dialogue: 20,0:14:25.49,0:14:28.70,Default,,0,0,0,,Emirlerime itaat edip her gün savaşırsanız...
+Dialogue: 20,0:14:28.70,0:14:32.76,Default,,0,0,0,,...sizlere sonsuz zevkler\Nsunacağıma emin olabilirsiniz!
+Dialogue: 20,0:14:35.39,0:14:39.03,Default,,0,0,0,,İlk rakibimiz Lapeliko Krallığı Ordusu olacak ve...
+Dialogue: 20,0:14:39.03,0:14:41.87,Default,,0,0,0,,...ilk savaşımızı da maymunlara karşı yapacağız!
+Dialogue: 20,0:14:41.87,0:14:43.77,Default,,0,0,0,,Yalnızca kazanmak yeterli değil!
+Dialogue: 20,0:14:43.77,0:14:46.03,Default,,0,0,0,,Tüm dünyaya kendimizi tanıtmamız gerek!
+Dialogue: 20,0:14:46.03,0:14:49.74,Default,,0,0,0,,Bütün dünya benim, Terakomari Gandesblood'ın,
+Dialogue: 20,0:14:49.74,0:14:53.73,Default,,0,0,0,,dünyayı ele geçirecek\N vampir olduğumu öğrenecek!
+Dialogue: 20,0:14:55.04,0:14:56.12,Default,,0,0,0,,Acil mesaj!
+Dialogue: 20,0:14:56.12,0:14:58.53,Default,,0,0,0,,Teğmen Bellius düşman generalini katletti!
+Dialogue: 20,0:14:58.53,0:15:00.36,Default,,0,0,0,,Zafer ordumuzundur!
+Dialogue: 20,0:15:02.20,0:15:04.45,Default,,0,0,0,,Yaniii, savaşa ben de katılsaydım...
+Dialogue: 20,0:15:04.45,0:15:07.67,Default,,0,0,0,,...onu üç saniyede parçalara ayırabilirdim gerçi.
+Dialogue: 20,0:15:07.67,0:15:09.37,Default,,0,0,0,,Üç saniyede mi?
+Dialogue: 20,0:15:09.37,0:15:12.35,Default,,0,0,0,,Şey, yanlış dedim! Bir saniyede, bir bir!
+Dialogue: 20,0:15:12.35,0:15:15.35,Default,,0,0,0,,Hepsini bir saniyede bu dünyadan silerdim!
+Dialogue: 20,0:15:15.35,0:15:17.35,Default,,0,0,0,,Ohaaa!
+Dialogue: 20,0:15:17.35,0:15:20.85,Default,,0,0,0,,Komarin! Komarin! Komarin! Komarin!
+Dialogue: 20,0:15:20.85,0:15:23.11,Default,,0,0,0,,Komarin! Komarin!
+Dialogue: 20,0:15:23.11,0:15:24.95,Default,,0,0,0,,Aferin size, askerler!
+Dialogue: 20,0:15:24.95,0:15:27.61,Default,,0,0,0,,Ancak düşmanımız yalnızca canavarlar değil!
+Dialogue: 20,0:15:27.61,0:15:29.58,Default,,0,0,0,,Gerra Arka Cumhuriyeti'nin savaşçıları ve...
+Dialogue: 20,0:15:29.58,0:15:34.24,Default,,0,0,0,,...Hakugoku Federasyonu'nun\N Safirleri de kudretimi öğrenecek!
+Dialogue: 20,0:15:34.24,0:15:37.23,Default,,0,0,0,,Bi' de, şey...
+Dialogue: 20,0:15:38.16,0:15:40.16,Default,,0,0,0,,Semavi Cennet ve Büyülü Adalar.
+Dialogue: 20,0:15:40.16,0:15:41.03,Default,,0,0,0,,Tabii ya!
+Dialogue: 20,0:15:41.03,0:15:44.79,Default,,0,0,0,,Semavi Cennet'le \NBüyülü Adalar'ın da içinden geçicez!
+Dialogue: 20,0:15:44.79,0:15:47.55,Default,,0,0,0,,Yaşasın!
+Dialogue: 20,0:15:47.55,0:15:51.80,Default,,0,0,0,,Aynen öyle! Tek yapmanız gereken \Nmuhteşem efendinize itaat etmek!
+Dialogue: 20,0:15:51.80,0:15:54.46,Default,,0,0,0,,Her ne olursa olsun dürüst ve itaatkar olun!
+Dialogue: 20,0:15:54.76,0:15:56.85,Default,,0,0,0,,Aklınıza beni devirmek falan gelmesin hiç!
+Dialogue: 20,0:15:56.85,0:15:58.68,Default,,0,0,0,,Düşüneyim bile demeyin!
+Dialogue: 20,0:15:58.68,0:16:02.56,Default,,0,0,0,,Yalnızca bana inanıp beni koruyun yeter!
+Dialogue: 20,0:16:02.56,0:16:05.57,Default,,0,0,0,,Yaşasın!
+Dialogue: 20,0:16:06.91,0:16:09.94,Default,,0,0,0,,İlerleyin şimdi, sevgili askerlerim!
+Dialogue: 20,0:16:09.94,0:16:13.57,Default,,0,0,0,,Savaş alanını zaferin kan kırmızısına boyayın!
+Dialogue: 20,0:16:13.95,0:16:17.58,Default,,0,0,0,,Komarin! Komarin! Komarin! Komarin!
+Dialogue: 20,0:16:20.95,0:16:23.33,Default,,0,0,0,,İşler nasıl bu raddeye geldi?
+Dialogue: 20,0:16:23.33,0:16:26.09,Default,,0,0,0,,Affedersiniz, biraz vaktinizi alabilir miyim?
+Dialogue: 20,0:16:26.09,0:16:29.51,Default,,0,0,0,,Ben, Altı Ulus Gazetesi'nden Melka Tiano!
+Dialogue: 20,0:16:29.51,0:16:33.87,Default,,0,0,0,,Leydi Terakomari Gandesblood, \Nsizinle röportaj yapabilir miyim lütfen?!
+Dialogue: 20,0:16:33.87,0:16:39.64,Default,,0,0,0,,T-Tamam, ne istiyorsan sor.\NAma önce biraz uzaklaşsan mı?
+Dialogue: 20,0:16:39.64,0:16:40.89,Default,,0,0,0,,Çok teşekkürler!
+Dialogue: 20,0:16:40.03,0:16:40.89,Alternative,,0,0,0,,Hey!
+Dialogue: 20,0:16:40.89,0:16:43.89,Default,,0,0,0,,Hangi nedenlerden ötürü Kızıl Lort oldunuz acaba?
+Dialogue: 20,0:16:43.90,0:16:45.40,Default,,0,0,0,,Majesteleriyle ilişkiniz nasıl?
+Dialogue: 20,0:16:45.40,0:16:46.52,Default,,0,0,0,,Ne tür yemekleri seversiniz?
+Dialogue: 20,0:16:46.52,0:16:49.03,Default,,0,0,0,,Yüz vampiri serçe parmağınızla\N öldürdüğünüz doğru mu?
+Dialogue: 20,0:16:49.03,0:16:50.15,Default,,0,0,0,,Sevgiliniz var mı?
+Dialogue: 20,0:16:50.15,0:16:51.15,Default,,0,0,0,,Hiç öpüştünüz mü?
+Dialogue: 20,0:16:51.15,0:16:52.82,Default,,0,0,0,,Yeter be, git başımdan!
+Dialogue: 20,0:16:53.91,0:16:56.03,Default,,0,0,0,,Güç sahipleri sözcüklerle konuşmaz!
+Dialogue: 20,0:16:56.03,0:17:00.41,Default,,0,0,0,,Ama böyle de işini yapamazsın.\NBirazcık bahsedeyim madem.
+Dialogue: 20,0:17:00.74,0:17:04.91,Default,,0,0,0,,Şu anki hedefim mutlak \Nbir dünya hakimiyeti sağlamak!
+Dialogue: 20,0:17:04.91,0:17:08.29,Default,,0,0,0,,Yani ben, Terakomari Gandesblood,
+Dialogue: 20,0:17:09.75,0:17:13.45,Default,,0,0,0,,diğer beş ulusun bütün kumandanlarını\N savaş alanında ezip geçecek ve...
+Dialogue: 20,0:17:13.45,0:17:17.12,Default,,0,0,0,,...Mulnite İmparatorluğu'nun\N kudretini bütün dünyaya göstereceğim!
+Dialogue: 20,0:17:17.12,0:17:18.39,Default,,0,0,0,,Anladın mı?!
+Dialogue: 20,0:17:18.39,0:17:20.61,Default,,0,0,0,,S-Süper...
+Dialogue: 20,0:17:22.31,0:17:24.99,Default,,0,0,0,,Bu arada en sevdiğim yemek pilavlı omlet!
+Dialogue: 20,0:17:24.99,0:17:26.06,Default,,0,0,0,,Bu kadar!
+Dialogue: 20,0:17:26.06,0:17:28.49,Default,,0,0,0,,Ben buna Kızıl Lort derim işte.
+Dialogue: 20,0:17:28.49,0:17:30.69,Default,,0,0,0,,En güçlü vampir resmen...
+Dialogue: 20,0:17:31.16,0:17:33.07,Default,,0,0,0,,Tanrılara şükürler olsun...
+Dialogue: 20,0:17:33.41,0:17:36.95,Default,,0,0,0,,Ekselanslarıyla aynı çağda\N doğarak kutsanmışım resmen!
+Dialogue: 20,0:17:37.85,0:17:38.95,Default,,0,0,0,,Bu tarafa lütfen!
+Dialogue: 20,0:17:38.95,0:17:41.95,Default,,0,0,0,,Off, çok tatlı! Harikasınız!
+Dialogue: 20,0:17:39.58,0:17:41.95,Alternative,,0,0,0,,N'apıyor bu kadın?
+Dialogue: 20,0:18:01.20,0:18:03.03,Default,,0,0,0,,Epeydir ölmemiştim.
+Dialogue: 20,0:18:03.03,0:18:05.48,Default,,0,0,0,,Ölmek epey sıkıcı iş yav...
+Dialogue: 20,0:18:07.70,0:18:12.86,Default,,0,0,0,,Bu dünyada ölüm kalım savaşı \Ndiye bir kavram yok.
+Dialogue: 20,0:18:13.36,0:18:17.95,Default,,0,0,0,,Bu dünyadaki altı ulusun her birinde...
+Dialogue: 20,0:18:17.95,0:18:23.90,Default,,0,0,0,,...sonsuz büyü gücüne sahip\N birer adet "Kara Öz" bulunur.
+Dialogue: 20,0:18:24.62,0:18:28.08,Default,,0,0,0,,Ve Kara Öz'ün etkisine gelince:
+Dialogue: 20,0:18:28.08,0:18:30.63,Default,,0,0,0,,Kişinin yaraları ne kadar derin olursa olsun,
+Dialogue: 20,0:18:30.63,0:18:33.33,Default,,0,0,0,,ne kadar trajik bir ölüm yaşamış olursa olsun,
+Dialogue: 20,0:18:33.33,0:18:37.01,Default,,0,0,0,,belli bir zamandan sonra \Nherkes tamamen iyileşir.
+Dialogue: 20,0:18:37.78,0:18:43.03,Default,,0,0,0,,Durum böyle işte. \NŞu an bulunduğum yerse "Kara Öz Bölgesi".
+Dialogue: 20,0:18:43.03,0:18:46.33,Default,,0,0,0,,Altı ulusun Kara Öz'ünün\N bir araya geldiği özel bir bölge ve...
+Dialogue: 20,0:18:46.33,0:18:50.52,Default,,0,0,0,,...uluslar arasındaki savaşlar \Nçoğunlukla bu bölgede yaşanıyor.
+Dialogue: 20,0:18:50.52,0:18:53.03,Default,,0,0,0,,Ne düşünüyorsunuz, Leydi Komari?
+Dialogue: 20,0:18:53.03,0:18:55.90,Default,,0,0,0,,Sözde "eğlence savaşı" dedikleri şey işte.
+Dialogue: 20,0:18:59.16,0:19:03.28,Default,,0,0,0,,Böyle saçmalık mı olurmuş...
+Dialogue: 20,0:19:19.58,0:19:21.64,Default,,0,0,0,,Günaydınlar, Leydi Komari.
+Dialogue: 20,0:19:22.53,0:19:25.10,Default,,0,0,0,,L-Lan! N'apıyosun burada?
+Dialogue: 20,0:19:27.60,0:19:28.70,Default,,0,0,0,,Ah...
+Dialogue: 20,0:19:28.70,0:19:30.35,Default,,0,0,0,,Niye çıplaksın be?!
+Dialogue: 20,0:19:31.66,0:19:32.86,Default,,0,0,0,,Ah!
+Dialogue: 20,0:19:33.62,0:19:36.82,Default,,0,0,0,,Giy şu üstünü çabuk!
+Dialogue: 20,0:19:39.86,0:19:42.87,Default,,0,0,0,,Leydi Komari, \Nbugünkü haberlere bir göz atın lütfen.
+Dialogue: 20,0:19:43.28,0:19:46.16,Default,,0,0,0,,Bakın, dün çekildiğiniz fotoğraf.
+Dialogue: 20,0:19:46.16,0:19:47.95,Default,,0,0,0,,Ne diyorsun ya?!
+Dialogue: 20,0:19:47.95,0:19:50.87,Default,,0,0,0,,Şimdi gazete okumanın sırası mı... hı?
+Dialogue: 20,0:19:54.88,0:19:57.37,Default,,0,0,0,,"Yeni Kızıl Lort Sahneye Atıldı,
+Dialogue: 20,0:19:57.37,0:19:59.88,Default,,0,0,0,,Tüm Dünyayı Pilavlı Omlete Çevirecek".
+Dialogue: 20,0:20:00.28,0:20:03.03,Default,,0,0,0,,"Pilavlı omlete bayılırım.
+Dialogue: 20,0:20:03.03,0:20:06.24,Default,,0,0,0,,Diğer beş ulusun kumandanlarını\N önce katledeceğim,
+Dialogue: 20,0:20:06.24,0:20:08.74,Default,,0,0,0,,ardından üstlerine ketçap sıkacağım,
+Dialogue: 20,0:20:08.74,0:20:12.94,Default,,0,0,0,,sonra da içlerini oyup \Nhepsini pilavlı omlete çevireceğim."
+Dialogue: 20,0:20:14.95,0:20:18.65,Default,,0,0,0,,Bildiğin yalan bu be!
+Dialogue: 20,0:20:18.65,0:20:21.37,Default,,0,0,0,,Diğer uluslar çoktan görmüştür bunu, di'mi?!
+Dialogue: 20,0:20:21.37,0:20:25.49,Default,,0,0,0,,Evet. Yazdıklarına göre, \Ndün öldürdüğümüz bir şempanze:
+Dialogue: 20,0:20:25.49,0:20:27.53,Default,,0,0,0,,"Yaptıkları yanına kalmayacak!
+Dialogue: 20,0:20:27.53,0:20:31.12,Default,,0,0,0,,Er ya da geç intikamımızı alacağız!" demiş.
+Dialogue: 20,0:20:31.12,0:20:34.17,Default,,0,0,0,,Ayrıca ulusal gazetelerde \Nbirçok ölüm tehdidi de aldınız.
+Dialogue: 20,0:20:34.17,0:20:37.15,Default,,0,0,0,,{\fad(0,200)\t(#start,2100,\fs100)\t(2200,#end,\fs70)}Hayır!
+Dialogue: 20,0:20:37.96,0:20:39.49,Default,,0,0,0,,Sakinleşin lütfen.
+Dialogue: 20,0:20:39.49,0:20:42.03,Default,,0,0,0,,Namusunuzu ben korurum, Leydi Komari.
+Dialogue: 20,0:20:42.03,0:20:44.22,Default,,0,0,0,,En çok senden endişeleniyorum zaten be!
+Dialogue: 20,0:20:44.22,0:20:47.06,Default,,0,0,0,,Leydi Komari, \Nbugünün planlarını konuşsak...
+Dialogue: 20,0:20:47.06,0:20:49.37,Default,,0,0,0,,Aaağğhh, duymuyo'm ki!
+Dialogue: 20,0:20:49.37,0:20:51.14,Default,,0,0,0,,Bugün izinliyim!
+Dialogue: 20,0:20:51.14,0:20:54.37,Default,,0,0,0,,Sonsuza dek battaniyenin altında kalacaksanız...
+Dialogue: 20,0:20:54.37,0:20:56.40,Default,,0,0,0,,...benim de kendimce çözümlerim var.
+Dialogue: 20,0:20:56.66,0:20:59.66,Default,,0,0,0,,Hıh, bana bir adım dahi yaklaşacak olursan...
+Dialogue: 20,0:20:59.66,0:21:01.40,Default,,0,0,0,,...öyle bi' ağlarım ki hıçkırık tutar!
+Dialogue: 20,0:21:02.37,0:21:04.66,Default,,0,0,0,,"Çilekli Süt Formülü."
+Dialogue: 20,0:21:06.12,0:21:09.41,Default,,0,0,0,,"Çilekli süt tadında bir aşk istediğimi sanırdım.
+Dialogue: 20,0:21:09.74,0:21:14.95,Default,,0,0,0,,Buruk olmayan, tatlı ve yumuşak bir tat bırakan...
+Dialogue: 20,0:21:14.95,0:21:19.92,Default,,0,0,0,,...daima sıcacık hissettiren\No nazik, gün ışığı misali bir aşk."
+Dialogue: 20,0:21:19.92,0:21:23.57,Default,,0,0,0,,{\fad(0,250)\t(#start,#end,\fs100)}Kes şunu!
+Dialogue: 20,0:21:24.87,0:21:28.24,Default,,0,0,0,,Odanızdaki çöpleri toplarken buldum.
+Dialogue: 20,0:21:28.24,0:21:31.77,Default,,0,0,0,,Bir aşk hikayesi görmeyi beklemiyordum açıkçası.
+Dialogue: 20,0:21:32.20,0:21:35.03,Default,,0,0,0,,Her neyse, bu şekilde işlerinizi \Naksatmaya devam ederseniz...
+Dialogue: 20,0:21:35.03,0:21:38.49,Default,,0,0,0,,...bu hikayeyi sarayın her yerine \Nyayarım, sizin için uygun mudur?
+Dialogue: 20,0:21:38.49,0:21:40.53,Default,,0,0,0,,Yazar ismini de ekleyerek tabii ki.
+Dialogue: 20,0:21:40.53,0:21:41.78,Default,,0,0,0,,Hı?
+Dialogue: 20,0:21:41.78,0:21:43.40,Default,,0,0,0,,Leydi Komari, dinliyor musunuz?
+Dialogue: 20,0:21:46.24,0:21:49.28,Default,,0,0,0,,Ne dersen yapıca'm...
+Dialogue: 20,0:21:49.74,0:21:54.87,Default,,0,0,0,,N'olursun, kimseye anlatma.
+Dialogue: 20,0:22:03.13,0:22:07.14,Default,,0,0,0,,Endişelenmeyin, öyle bi' şey yapmam.
+Dialogue: 20,0:22:07.53,0:22:09.76,Default,,0,0,0,,T-Teşekkürler, Vi-
+Dialogue: 20,0:22:09.76,0:22:11.03,Default,,0,0,0,,Aağğhh!!!
+Dialogue: 20,0:22:11.03,0:22:12.58,Default,,0,0,0,,Çok güzel kokuyosunu'z!
+Dialogue: 20,0:22:12.58,0:22:15.08,Default,,0,0,0,,Yastığınız yerine direkt \Nsizi koklamak çok daha iyiymiş!
+Dialogue: 20,0:22:15.08,0:22:19.98,Default,,0,0,0,,Ahh, kendimi bu çilekli süt kokusuna\N bırakıp cennete yükselmek istiyorum!
+Dialogue: 20,0:22:22.03,0:22:24.98,Default,,0,0,0,,Yüzyılın sapığı lan bu kadın!
+Dialogue: 20,0:22:32.87,0:22:35.57,Default,,0,0,0,,Çok yoruldum.
+Dialogue: 20,0:22:37.37,0:22:42.23,Default,,0,0,0,,Bu kadar fazla kişiyle en son \Nne zaman konuşmuştum acaba?
+Dialogue: 20,0:22:49.53,0:22:52.56,Default,,0,0,0,,Biraz olsun diren, hadi!
+Dialogue: 20,0:22:52.56,0:22:54.32,Default,,0,0,0,,Yapmayın...
+Dialogue: 20,0:22:55.16,0:22:58.94,Default,,0,0,0,,Acıyor, lütfen...
+Dialogue: 20,0:23:22.28,0:23:25.05,Default,,0,0,0,,Asla izin vermeyeceğim!
+Dialogue: 20,0:23:36.58,0:23:38.78,Default,,0,0,0,,"Başkaldırı."
+Comment: 0,0:21:01.41,0:22:31.66,Opening,,0,0,0,,{açılış}
+Dialogue: 1,0:21:01.70,0:21:06.50,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Birlikte alt edelim bu kaderi!
+Dialogue: 0,0:21:01.70,0:21:06.50,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(4677,#end,\blur22)\1a&HFE&}Birlikte alt edelim bu kaderi!
+Dialogue: 1,0:21:25.56,0:21:27.43,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Günler beklentilerimi aştı,
+Dialogue: 0,0:21:25.56,0:21:27.43,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(1755,#end,\blur22)\1a&HFE&}Günler beklentilerimi aştı,
+Dialogue: 1,0:21:27.43,0:21:30.23,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}her gün gitgide karmaşıklaştı.
+Dialogue: 0,0:21:27.43,0:21:30.23,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2669,#end,\blur22)\1a&HFE&}her gün gitgide karmaşıklaştı.
+Dialogue: 1,0:21:30.27,0:21:32.77,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Elimde hiçbir şey kalmadı ama
+Dialogue: 0,0:21:30.27,0:21:32.77,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2383,#end,\blur22)\1a&HFE&}Elimde hiçbir şey kalmadı ama
+Dialogue: 1,0:21:32.77,0:21:36.27,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}neden arıyorum hala varlığıma.
+Dialogue: 0,0:21:32.77,0:21:36.27,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(3387,#end,\blur22)\1a&HFE&}neden arıyorum hala varlığıma.
+Dialogue: 1,0:21:36.40,0:21:41.07,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Ansızın genişledi ufkum, artık şunu biliyorum:
+Dialogue: 0,0:21:36.40,0:21:41.07,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(4553,#end,\blur22)\1a&HFE&}Ansızın genişledi ufkum, artık şunu biliyorum:
+Dialogue: 1,0:21:41.07,0:21:46.08,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}İnandıkça yürekler birbirine yaratır mucizeler birlikte.
+Dialogue: 0,0:21:41.07,0:21:46.08,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(4888,#end,\blur22)\1a&HFE&}İnandıkça yürekler birbirine yaratır mucizeler birlikte.
+Dialogue: 1,0:21:46.24,0:21:48.70,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Bozuluyor sükuneti rüyalarımın,
+Dialogue: 0,0:21:46.24,0:21:48.70,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2336,#end,\blur22)\1a&HFE&}Bozuluyor sükuneti rüyalarımın,
+Dialogue: 1,0:21:48.95,0:21:51.37,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}yankılanıyor acıların sesi her yerde.
+Dialogue: 0,0:21:48.95,0:21:51.37,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2295,#end,\blur22)\1a&HFE&}yankılanıyor acıların sesi her yerde.
+Dialogue: 1,0:21:51.54,0:21:57.75,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Artık kaçmıyorum, yüzleşeceğim hepsiyle!
+Dialogue: 0,0:21:51.54,0:21:57.75,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(6096,#end,\blur22)\1a&HFE&}Artık kaçmıyorum, yüzleşeceğim hepsiyle!
+Dialogue: 1,0:21:59.84,0:22:02.30,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Şimdi son sürat ilerleyelim!
+Dialogue: 0,0:21:59.84,0:22:02.30,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2343,#end,\blur22)\1a&HFE&}Şimdi son sürat ilerleyelim!
+Dialogue: 1,0:22:02.38,0:22:05.26,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Damarlarımızda akan kanı hissedelim!
+Dialogue: 0,0:22:02.38,0:22:05.26,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2754,#end,\blur22)\1a&HFE&}Damarlarımızda akan kanı hissedelim!
+Dialogue: 1,0:22:05.30,0:22:07.97,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Arayalım aydınlığa çıkan yolu
+Dialogue: 0,0:22:05.30,0:22:07.97,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2545,#end,\blur22)\1a&HFE&}Arayalım aydınlığa çıkan yolu
+Dialogue: 1,0:22:07.97,0:22:10.64,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}birlikte yaşarken bu kaderi!
+Dialogue: 0,0:22:07.97,0:22:10.64,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2544,#end,\blur22)\1a&HFE&}birlikte yaşarken bu kaderi!
+Dialogue: 1,0:22:10.64,0:22:13.23,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Kalbim atıyor derinden
+Dialogue: 0,0:22:10.64,0:22:13.23,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2460,#end,\blur22)\1a&HFE&}Kalbim atıyor derinden
+Dialogue: 1,0:22:13.23,0:22:16.11,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}bastıramadığım güçlü duygularla!
+Dialogue: 0,0:22:13.23,0:22:16.11,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2758,#end,\blur22)\1a&HFE&}bastıramadığım güçlü duygularla!
+Dialogue: 1,0:22:16.11,0:22:18.61,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Serbest kalmayı bekliyorlar!
+Dialogue: 0,0:22:16.11,0:22:18.61,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2381,#end,\blur22)\1a&HFE&}Serbest kalmayı bekliyorlar!
+Dialogue: 1,0:22:18.78,0:22:21.49,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}Körükle şimdi gözlerimdeki alevi
+Dialogue: 0,0:22:18.78,0:22:21.49,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(2589,#end,\blur22)\1a&HFE&}Körükle şimdi gözlerimdeki alevi
+Dialogue: 1,0:22:21.53,0:22:24.74,Opening,,0,0,0,,{\fad(100,50)\bord0\shad0\blur0.7}ve özgür bırak ruhumu olduğu gibi!
+Dialogue: 0,0:22:21.53,0:22:24.74,Opening,,0,0,0,,{\blur22\t(#start,150,\blur7\t(3092,#end,\blur22)\1a&HFE&}ve özgür bırak ruhumu olduğu gibi!
+Comment: 0,0:00:00.00,0:00:00.08,vuaTS,,0,0,0,,{ts}
+Dialogue: 0,0:01:54.01,0:01:54.05,vuaTS,,0,0,0,,{\pos(960,114.4)\bord8\c&HF9FBFF&\3c&H0854E0&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.05,0:01:54.09,vuaTS,,0,0,0,,{\pos(959.99,113.52)\fscx100.21\fscy100.21\bord8.02\c&HF9FBFF&\3c&H0854E0&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.09,0:01:54.13,vuaTS,,0,0,0,,{\pos(959.95,112.66)\fscx100.41\fscy100.41\bord8.03\c&HF9FBFF&\3c&H0854E0&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.13,0:01:54.17,vuaTS,,0,0,0,,{\pos(959.96,111.77)\fscx100.61\fscy100.61\bord8.05\c&HF9FBFF&\3c&H0854E0&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.17,0:01:54.21,vuaTS,,0,0,0,,{\pos(959.92,110.89)\fscx100.82\fscy100.82\bord8.07\c&HF9FBFF&\3c&H0854E0&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.21,0:01:54.26,vuaTS,,0,0,0,,{\pos(959.92,110)\fscx101.02\fscy101.02\bord8.08\c&HF9FBFF&\3c&H0854E0&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.26,0:01:54.30,vuaTS,,0,0,0,,{\pos(959.91,109.13)\fscx101.23\fscy101.23\bord8.1\c&HF9FBFF&\3c&H0854E0&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.30,0:01:54.34,vuaTS,,0,0,0,,{\pos(959.86,108.26)\fscx101.43\fscy101.43\bord8.11\c&HF9FBFF&\3c&H0854E0&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.34,0:01:54.38,vuaTS,,0,0,0,,{\pos(959.87,107.37)\fscx101.64\fscy101.64\bord8.13\c&HF9FBFF&\3c&H0854E0&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.38,0:01:54.42,vuaTS,,0,0,0,,{\pos(959.85,106.5)\fscx101.84\fscy101.84\bord8.15\c&HF9FBFF&\3c&H0854E0&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.42,0:01:54.46,vuaTS,,0,0,0,,{\pos(959.82,105.62)\fscx102.04\fscy102.04\bord8.16\c&HF9FBFF&\3c&H0854E0&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.46,0:01:54.51,vuaTS,,0,0,0,,{\pos(959.79,104.76)\fscx102.24\fscy102.24\bord8.18\c&HF9FBFF&\3c&H0854E0&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.51,0:01:54.55,vuaTS,,0,0,0,,{\pos(959.83,103.87)\fscx102.45\fscy102.45\bord8.2\c&HF9FBFF&\3c&H0854E0&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.55,0:01:54.59,vuaTS,,0,0,0,,{\pos(959.76,103.02)\fscx102.65\fscy102.65\bord8.21\c&HF9FBFF&\3c&H0854E0&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.59,0:01:54.63,vuaTS,,0,0,0,,{\pos(959.77,102.14)\fscx102.85\fscy102.85\bord8.23\c&HF9FBFF&\3c&H0854E0&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.63,0:01:54.67,vuaTS,,0,0,0,,{\pos(959.74,101.28)\fscx103.05\fscy103.05\bord8.24\c&HF9FBFF&\3c&H0854E0&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.67,0:01:54.71,vuaTS,,0,0,0,,{\pos(959.71,100.42)\fscx103.25\fscy103.25\bord8.26\c&HF9FBFF&\3c&H0854E0&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.71,0:01:54.76,vuaTS,,0,0,0,,{\pos(959.69,99.56)\fscx103.45\fscy103.45\bord8.28\c&HF9FBFF&\3c&H0854E0&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.76,0:01:54.80,vuaTS,,0,0,0,,{\pos(959.66,98.72)\fscx103.65\fscy103.65\bord8.29\c&HF9FBFF&\3c&H0854E0&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.80,0:01:54.84,vuaTS,,0,0,0,,{\pos(959.66,97.86)\fscx103.85\fscy103.85\bord8.31\c&HF9FBFF&\3c&H0854E0&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.84,0:01:54.88,vuaTS,,0,0,0,,{\pos(959.65,97.01)\fscx104.05\fscy104.05\bord8.32\c&HF9FBFF&\3c&H0854E0&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.88,0:01:54.92,vuaTS,,0,0,0,,{\pos(959.63,96.16)\fscx104.24\fscy104.24\bord8.34\c&HF9FBFF&\3c&H0854E0&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.92,0:01:54.96,vuaTS,,0,0,0,,{\pos(959.58,95.33)\fscx104.43\fscy104.43\bord8.35\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:54.96,0:01:55.01,vuaTS,,0,0,0,,{\pos(959.56,94.5)\fscx104.63\fscy104.63\bord8.37\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.01,0:01:55.05,vuaTS,,0,0,0,,{\pos(959.58,93.65)\fscx104.83\fscy104.83\bord8.39\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.05,0:01:55.09,vuaTS,,0,0,0,,{\pos(959.53,92.84)\fscx105.01\fscy105.01\bord8.4\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.09,0:01:55.13,vuaTS,,0,0,0,,{\pos(959.5,92.02)\fscx105.2\fscy105.2\bord8.42\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.13,0:01:55.17,vuaTS,,0,0,0,,{\pos(959.5,91.2)\fscx105.4\fscy105.4\bord8.43\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.17,0:01:55.21,vuaTS,,0,0,0,,{\pos(959.47,90.38)\fscx105.58\fscy105.58\bord8.45\c&HF9FBFF&\3c&H0854E0&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.21,0:01:55.26,vuaTS,,0,0,0,,{\pos(959.46,89.58)\fscx105.77\fscy105.77\bord8.46\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.26,0:01:55.30,vuaTS,,0,0,0,,{\pos(959.44,88.79)\fscx105.96\fscy105.96\bord8.48\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.30,0:01:55.34,vuaTS,,0,0,0,,{\pos(959.41,87.98)\fscx106.14\fscy106.14\bord8.49\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.34,0:01:55.38,vuaTS,,0,0,0,,{\pos(959.4,87.18)\fscx106.33\fscy106.33\bord8.51\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.38,0:01:55.42,vuaTS,,0,0,0,,{\pos(959.38,86.41)\fscx106.51\fscy106.51\bord8.52\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.42,0:01:55.47,vuaTS,,0,0,0,,{\pos(959.37,85.63)\fscx106.69\fscy106.69\bord8.54\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.47,0:01:55.51,vuaTS,,0,0,0,,{\pos(959.35,84.86)\fscx106.87\fscy106.87\bord8.55\c&HF9FBFF&\3c&H0854E0&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.51,0:01:55.55,vuaTS,,0,0,0,,{\pos(959.35,84.09)\fscx107.05\fscy107.05\bord8.56\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.55,0:01:55.59,vuaTS,,0,0,0,,{\pos(959.32,83.34)\fscx107.22\fscy107.22\bord8.58\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.59,0:01:55.63,vuaTS,,0,0,0,,{\pos(959.29,82.59)\fscx107.4\fscy107.4\bord8.59\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.63,0:01:55.67,vuaTS,,0,0,0,,{\pos(959.3,81.83)\fscx107.57\fscy107.57\bord8.61\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.67,0:01:55.72,vuaTS,,0,0,0,,{\pos(959.28,81.1)\fscx107.74\fscy107.74\bord8.62\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.72,0:01:55.76,vuaTS,,0,0,0,,{\pos(959.25,80.38)\fscx107.91\fscy107.91\bord8.63\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.76,0:01:55.80,vuaTS,,0,0,0,,{\pos(959.25,79.65)\fscx108.08\fscy108.08\bord8.65\c&HF9FBFF&\3c&H0854E0&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.80,0:01:55.84,vuaTS,,0,0,0,,{\pos(959.21,78.95)\fscx108.24\fscy108.24\bord8.66\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.84,0:01:55.88,vuaTS,,0,0,0,,{\pos(959.22,78.23)\fscx108.41\fscy108.41\bord8.67\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.88,0:01:55.92,vuaTS,,0,0,0,,{\pos(959.2,77.54)\fscx108.57\fscy108.57\bord8.69\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.92,0:01:55.97,vuaTS,,0,0,0,,{\pos(959.19,76.85)\fscx108.73\fscy108.73\bord8.7\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:55.97,0:01:56.01,vuaTS,,0,0,0,,{\pos(959.15,76.17)\fscx108.89\fscy108.89\bord8.71\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.01,0:01:56.05,vuaTS,,0,0,0,,{\pos(959.15,75.5)\fscx109.05\fscy109.05\bord8.72\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.05,0:01:56.09,vuaTS,,0,0,0,,{\pos(959.11,74.84)\fscx109.2\fscy109.2\bord8.74\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.09,0:01:56.13,vuaTS,,0,0,0,,{\pos(959.08,74.2)\fscx109.35\fscy109.35\bord8.75\c&HF9FBFF&\3c&H0854E0&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.13,0:01:56.17,vuaTS,,0,0,0,,{\pos(959.06,73.55)\fscx109.5\fscy109.5\bord8.76\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.17,0:01:56.22,vuaTS,,0,0,0,,{\pos(959.05,72.91)\fscx109.65\fscy109.65\bord8.77\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.22,0:01:56.26,vuaTS,,0,0,0,,{\pos(959.01,72.29)\fscx109.79\fscy109.79\bord8.78\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.26,0:01:56.30,vuaTS,,0,0,0,,{\pos(959.01,71.67)\fscx109.93\fscy109.93\bord8.79\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.30,0:01:56.34,vuaTS,,0,0,0,,{\pos(958.98,71.07)\fscx110.07\fscy110.07\bord8.81\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.34,0:01:56.38,vuaTS,,0,0,0,,{\pos(958.99,70.47)\fscx110.21\fscy110.21\bord8.82\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.38,0:01:56.42,vuaTS,,0,0,0,,{\pos(958.98,69.88)\fscx110.35\fscy110.35\bord8.83\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.42,0:01:56.47,vuaTS,,0,0,0,,{\pos(958.97,69.3)\fscx110.48\fscy110.48\bord8.84\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.47,0:01:56.51,vuaTS,,0,0,0,,{\pos(958.96,68.73)\fscx110.62\fscy110.62\bord8.85\c&HF9FBFF&\3c&H0854E0&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.51,0:01:56.55,vuaTS,,0,0,0,,{\pos(958.96,68.17)\fscx110.75\fscy110.75\bord8.86\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.55,0:01:56.59,vuaTS,,0,0,0,,{\pos(958.93,67.63)\fscx110.87\fscy110.87\bord8.87\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.59,0:01:56.63,vuaTS,,0,0,0,,{\pos(958.91,67.09)\fscx111\fscy111\bord8.88\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.63,0:01:56.67,vuaTS,,0,0,0,,{\pos(958.9,66.57)\fscx111.11\fscy111.11\bord8.89\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.67,0:01:56.72,vuaTS,,0,0,0,,{\pos(958.87,66.07)\fscx111.23\fscy111.23\bord8.9\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.72,0:01:56.76,vuaTS,,0,0,0,,{\pos(958.85,65.57)\fscx111.35\fscy111.35\bord8.91\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.76,0:01:56.80,vuaTS,,0,0,0,,{\pos(958.83,65.07)\fscx111.46\fscy111.46\bord8.92\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.80,0:01:56.84,vuaTS,,0,0,0,,{\pos(958.81,64.61)\fscx111.57\fscy111.57\bord8.93\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.84,0:01:56.88,vuaTS,,0,0,0,,{\pos(958.8,64.14)\fscx111.68\fscy111.68\bord8.93\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.88,0:01:56.92,vuaTS,,0,0,0,,{\pos(958.78,63.69)\fscx111.78\fscy111.78\bord8.94\c&HF9FBFF&\3c&H0854E0&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.92,0:01:56.97,vuaTS,,0,0,0,,{\pos(958.74,63.26)\fscx111.88\fscy111.88\bord8.95\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:56.97,0:01:57.01,vuaTS,,0,0,0,,{\pos(958.76,62.82)\fscx111.98\fscy111.98\bord8.96\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.01,0:01:57.05,vuaTS,,0,0,0,,{\pos(958.71,62.43)\fscx112.07\fscy112.07\bord8.97\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.05,0:01:57.09,vuaTS,,0,0,0,,{\pos(958.66,62.04)\fscx112.16\fscy112.16\bord8.97\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.09,0:01:57.13,vuaTS,,0,0,0,,{\pos(958.71,61.62)\fscx112.26\fscy112.26\bord8.98\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.13,0:01:57.18,vuaTS,,0,0,0,,{\pos(958.64,61.27)\fscx112.33\fscy112.33\bord8.99\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.18,0:01:57.22,vuaTS,,0,0,0,,{\pos(958.61,60.91)\fscx112.42\fscy112.42\bord8.99\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.22,0:01:57.26,vuaTS,,0,0,0,,{\pos(958.67,60.54)\fscx112.51\fscy112.51\bord9\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.26,0:01:57.30,vuaTS,,0,0,0,,{\pos(958.62,60.21)\fscx112.58\fscy112.58\bord9.01\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.30,0:01:57.34,vuaTS,,0,0,0,,{\pos(958.57,59.91)\fscx112.65\fscy112.65\bord9.01\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.34,0:01:57.38,vuaTS,,0,0,0,,{\pos(958.57,59.6)\fscx112.72\fscy112.72\bord9.02\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.38,0:01:57.43,vuaTS,,0,0,0,,{\pos(958.58,59.3)\fscx112.79\fscy112.79\bord9.02\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.43,0:01:57.47,vuaTS,,0,0,0,,{\pos(958.53,59.03)\fscx112.85\fscy112.85\bord9.03\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.47,0:01:57.51,vuaTS,,0,0,0,,{\pos(958.52,58.76)\fscx112.91\fscy112.91\bord9.03\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.51,0:01:57.55,vuaTS,,0,0,0,,{\pos(958.53,58.51)\fscx112.97\fscy112.97\bord9.04\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.55,0:01:57.59,vuaTS,,0,0,0,,{\pos(958.47,58.3)\fscx113.02\fscy113.02\bord9.04\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.59,0:01:57.63,vuaTS,,0,0,0,,{\pos(958.45,58.1)\fscx113.06\fscy113.06\bord9.04\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.63,0:01:57.68,vuaTS,,0,0,0,,{\pos(958.47,57.88)\fscx113.11\fscy113.11\bord9.05\c&HF9FBFF&\3c&H0854E0&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.68,0:01:57.72,vuaTS,,0,0,0,,{\pos(958.51,57.67)\fscx113.16\fscy113.16\bord9.05\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.72,0:01:57.76,vuaTS,,0,0,0,,{\pos(958.48,57.51)\fscx113.2\fscy113.2\bord9.06\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.76,0:01:57.80,vuaTS,,0,0,0,,{\pos(958.41,57.37)\fscx113.23\fscy113.23\bord9.06\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.80,0:01:57.84,vuaTS,,0,0,0,,{\pos(958.31,57.26)\fscx113.24\fscy113.24\bord9.06\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.84,0:01:57.88,vuaTS,,0,0,0,,{\pos(958.25,57.15)\fscx113.27\fscy113.27\bord9.06\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.88,0:01:57.93,vuaTS,,0,0,0,,{\pos(958.31,57.02)\fscx113.3\fscy113.3\bord9.06\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.93,0:01:57.97,vuaTS,,0,0,0,,{\pos(958.4,56.9)\fscx113.33\fscy113.33\bord9.07\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:57.97,0:01:58.01,vuaTS,,0,0,0,,{\pos(958.44,56.82)\fscx113.36\fscy113.36\bord9.07\c&HF9FBFF&\3c&H0854E0&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.01,0:01:54.05,vuaTS,,0,0,0,,{\pos(960,114.4)\bord5\c&HF9FBFF&\3c&HF9FBFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.05,0:01:54.09,vuaTS,,0,0,0,,{\pos(959.99,113.52)\fscx100.21\fscy100.21\bord5.01\c&HF9FBFF&\3c&HF9FBFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.09,0:01:54.13,vuaTS,,0,0,0,,{\pos(959.95,112.66)\fscx100.41\fscy100.41\bord5.02\c&HF9FBFF&\3c&HF9FBFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.13,0:01:54.17,vuaTS,,0,0,0,,{\pos(959.96,111.77)\fscx100.61\fscy100.61\bord5.03\c&HF9FBFF&\3c&HF9FBFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.17,0:01:54.21,vuaTS,,0,0,0,,{\pos(959.92,110.89)\fscx100.82\fscy100.82\bord5.04\c&HF9FBFF&\3c&HF9FBFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.21,0:01:54.26,vuaTS,,0,0,0,,{\pos(959.92,110)\fscx101.02\fscy101.02\bord5.05\c&HF9FBFF&\3c&HF9FBFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.26,0:01:54.30,vuaTS,,0,0,0,,{\pos(959.91,109.13)\fscx101.23\fscy101.23\bord5.06\c&HF9FBFF&\3c&HF9FBFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.30,0:01:54.34,vuaTS,,0,0,0,,{\pos(959.86,108.26)\fscx101.43\fscy101.43\bord5.07\c&HF9FBFF&\3c&HF9FBFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.34,0:01:54.38,vuaTS,,0,0,0,,{\pos(959.87,107.37)\fscx101.64\fscy101.64\bord5.08\c&HF9FBFF&\3c&HF9FBFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.38,0:01:54.42,vuaTS,,0,0,0,,{\pos(959.85,106.5)\fscx101.84\fscy101.84\bord5.09\c&HF9FBFF&\3c&HF9FBFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.42,0:01:54.46,vuaTS,,0,0,0,,{\pos(959.82,105.62)\fscx102.04\fscy102.04\bord5.1\c&HF9FBFF&\3c&HF9FBFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.46,0:01:54.51,vuaTS,,0,0,0,,{\pos(959.79,104.76)\fscx102.24\fscy102.24\bord5.11\c&HF9FBFF&\3c&HF9FBFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.51,0:01:54.55,vuaTS,,0,0,0,,{\pos(959.83,103.87)\fscx102.45\fscy102.45\bord5.12\c&HF9FBFF&\3c&HF9FBFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.55,0:01:54.59,vuaTS,,0,0,0,,{\pos(959.76,103.02)\fscx102.65\fscy102.65\bord5.13\c&HF9FBFF&\3c&HF9FBFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.59,0:01:54.63,vuaTS,,0,0,0,,{\pos(959.77,102.14)\fscx102.85\fscy102.85\bord5.14\c&HF9FBFF&\3c&HF9FBFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.63,0:01:54.67,vuaTS,,0,0,0,,{\pos(959.74,101.28)\fscx103.05\fscy103.05\bord5.15\c&HF9FBFF&\3c&HF9FBFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.67,0:01:54.71,vuaTS,,0,0,0,,{\pos(959.71,100.42)\fscx103.25\fscy103.25\bord5.16\c&HF9FBFF&\3c&HF9FBFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.71,0:01:54.76,vuaTS,,0,0,0,,{\pos(959.69,99.56)\fscx103.45\fscy103.45\bord5.17\c&HF9FBFF&\3c&HF9FBFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.76,0:01:54.80,vuaTS,,0,0,0,,{\pos(959.66,98.72)\fscx103.65\fscy103.65\bord5.18\c&HF9FBFF&\3c&HF9FBFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.80,0:01:54.84,vuaTS,,0,0,0,,{\pos(959.66,97.86)\fscx103.85\fscy103.85\bord5.19\c&HF9FBFF&\3c&HF9FBFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.84,0:01:54.88,vuaTS,,0,0,0,,{\pos(959.65,97.01)\fscx104.05\fscy104.05\bord5.2\c&HF9FBFF&\3c&HF9FBFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.88,0:01:54.92,vuaTS,,0,0,0,,{\pos(959.63,96.16)\fscx104.24\fscy104.24\bord5.21\c&HF9FBFF&\3c&HF9FBFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.92,0:01:54.96,vuaTS,,0,0,0,,{\pos(959.58,95.33)\fscx104.43\fscy104.43\bord5.22\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:54.96,0:01:55.01,vuaTS,,0,0,0,,{\pos(959.56,94.5)\fscx104.63\fscy104.63\bord5.23\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.01,0:01:55.05,vuaTS,,0,0,0,,{\pos(959.58,93.65)\fscx104.83\fscy104.83\bord5.24\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.05,0:01:55.09,vuaTS,,0,0,0,,{\pos(959.53,92.84)\fscx105.01\fscy105.01\bord5.25\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.09,0:01:55.13,vuaTS,,0,0,0,,{\pos(959.5,92.02)\fscx105.2\fscy105.2\bord5.26\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.13,0:01:55.17,vuaTS,,0,0,0,,{\pos(959.5,91.2)\fscx105.4\fscy105.4\bord5.27\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.17,0:01:55.21,vuaTS,,0,0,0,,{\pos(959.47,90.38)\fscx105.58\fscy105.58\bord5.28\c&HF9FBFF&\3c&HF9FBFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.21,0:01:55.26,vuaTS,,0,0,0,,{\pos(959.46,89.58)\fscx105.77\fscy105.77\bord5.29\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.26,0:01:55.30,vuaTS,,0,0,0,,{\pos(959.44,88.79)\fscx105.96\fscy105.96\bord5.3\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.30,0:01:55.34,vuaTS,,0,0,0,,{\pos(959.41,87.98)\fscx106.14\fscy106.14\bord5.31\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.34,0:01:55.38,vuaTS,,0,0,0,,{\pos(959.4,87.18)\fscx106.33\fscy106.33\bord5.32\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.38,0:01:55.42,vuaTS,,0,0,0,,{\pos(959.38,86.41)\fscx106.51\fscy106.51\bord5.33\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.42,0:01:55.47,vuaTS,,0,0,0,,{\pos(959.37,85.63)\fscx106.69\fscy106.69\bord5.33\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.47,0:01:55.51,vuaTS,,0,0,0,,{\pos(959.35,84.86)\fscx106.87\fscy106.87\bord5.34\c&HF9FBFF&\3c&HF9FBFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.51,0:01:55.55,vuaTS,,0,0,0,,{\pos(959.35,84.09)\fscx107.05\fscy107.05\bord5.35\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.55,0:01:55.59,vuaTS,,0,0,0,,{\pos(959.32,83.34)\fscx107.22\fscy107.22\bord5.36\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.59,0:01:55.63,vuaTS,,0,0,0,,{\pos(959.29,82.59)\fscx107.4\fscy107.4\bord5.37\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.63,0:01:55.67,vuaTS,,0,0,0,,{\pos(959.3,81.83)\fscx107.57\fscy107.57\bord5.38\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.67,0:01:55.72,vuaTS,,0,0,0,,{\pos(959.28,81.1)\fscx107.74\fscy107.74\bord5.39\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.72,0:01:55.76,vuaTS,,0,0,0,,{\pos(959.25,80.38)\fscx107.91\fscy107.91\bord5.4\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.76,0:01:55.80,vuaTS,,0,0,0,,{\pos(959.25,79.65)\fscx108.08\fscy108.08\bord5.4\c&HF9FBFF&\3c&HF9FBFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.80,0:01:55.84,vuaTS,,0,0,0,,{\pos(959.21,78.95)\fscx108.24\fscy108.24\bord5.41\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.84,0:01:55.88,vuaTS,,0,0,0,,{\pos(959.22,78.23)\fscx108.41\fscy108.41\bord5.42\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.88,0:01:55.92,vuaTS,,0,0,0,,{\pos(959.2,77.54)\fscx108.57\fscy108.57\bord5.43\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.92,0:01:55.97,vuaTS,,0,0,0,,{\pos(959.19,76.85)\fscx108.73\fscy108.73\bord5.44\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:55.97,0:01:56.01,vuaTS,,0,0,0,,{\pos(959.15,76.17)\fscx108.89\fscy108.89\bord5.44\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.01,0:01:56.05,vuaTS,,0,0,0,,{\pos(959.15,75.5)\fscx109.05\fscy109.05\bord5.45\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.05,0:01:56.09,vuaTS,,0,0,0,,{\pos(959.11,74.84)\fscx109.2\fscy109.2\bord5.46\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.09,0:01:56.13,vuaTS,,0,0,0,,{\pos(959.08,74.2)\fscx109.35\fscy109.35\bord5.47\c&HF9FBFF&\3c&HF9FBFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.13,0:01:56.17,vuaTS,,0,0,0,,{\pos(959.06,73.55)\fscx109.5\fscy109.5\bord5.47\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.17,0:01:56.22,vuaTS,,0,0,0,,{\pos(959.05,72.91)\fscx109.65\fscy109.65\bord5.48\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.22,0:01:56.26,vuaTS,,0,0,0,,{\pos(959.01,72.29)\fscx109.79\fscy109.79\bord5.49\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.26,0:01:56.30,vuaTS,,0,0,0,,{\pos(959.01,71.67)\fscx109.93\fscy109.93\bord5.5\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.30,0:01:56.34,vuaTS,,0,0,0,,{\pos(958.98,71.07)\fscx110.07\fscy110.07\bord5.5\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.34,0:01:56.38,vuaTS,,0,0,0,,{\pos(958.99,70.47)\fscx110.21\fscy110.21\bord5.51\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.38,0:01:56.42,vuaTS,,0,0,0,,{\pos(958.98,69.88)\fscx110.35\fscy110.35\bord5.52\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.42,0:01:56.47,vuaTS,,0,0,0,,{\pos(958.97,69.3)\fscx110.48\fscy110.48\bord5.52\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.47,0:01:56.51,vuaTS,,0,0,0,,{\pos(958.96,68.73)\fscx110.62\fscy110.62\bord5.53\c&HF9FBFF&\3c&HF9FBFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.51,0:01:56.55,vuaTS,,0,0,0,,{\pos(958.96,68.17)\fscx110.75\fscy110.75\bord5.54\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.55,0:01:56.59,vuaTS,,0,0,0,,{\pos(958.93,67.63)\fscx110.87\fscy110.87\bord5.54\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.59,0:01:56.63,vuaTS,,0,0,0,,{\pos(958.91,67.09)\fscx111\fscy111\bord5.55\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.63,0:01:56.67,vuaTS,,0,0,0,,{\pos(958.9,66.57)\fscx111.11\fscy111.11\bord5.56\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.67,0:01:56.72,vuaTS,,0,0,0,,{\pos(958.87,66.07)\fscx111.23\fscy111.23\bord5.56\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.72,0:01:56.76,vuaTS,,0,0,0,,{\pos(958.85,65.57)\fscx111.35\fscy111.35\bord5.57\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.76,0:01:56.80,vuaTS,,0,0,0,,{\pos(958.83,65.07)\fscx111.46\fscy111.46\bord5.57\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.80,0:01:56.84,vuaTS,,0,0,0,,{\pos(958.81,64.61)\fscx111.57\fscy111.57\bord5.58\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.84,0:01:56.88,vuaTS,,0,0,0,,{\pos(958.8,64.14)\fscx111.68\fscy111.68\bord5.58\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.88,0:01:56.92,vuaTS,,0,0,0,,{\pos(958.78,63.69)\fscx111.78\fscy111.78\bord5.59\c&HF9FBFF&\3c&HF9FBFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.92,0:01:56.97,vuaTS,,0,0,0,,{\pos(958.74,63.26)\fscx111.88\fscy111.88\bord5.59\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:56.97,0:01:57.01,vuaTS,,0,0,0,,{\pos(958.76,62.82)\fscx111.98\fscy111.98\bord5.6\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.01,0:01:57.05,vuaTS,,0,0,0,,{\pos(958.71,62.43)\fscx112.07\fscy112.07\bord5.6\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.05,0:01:57.09,vuaTS,,0,0,0,,{\pos(958.66,62.04)\fscx112.16\fscy112.16\bord5.61\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.09,0:01:57.13,vuaTS,,0,0,0,,{\pos(958.71,61.62)\fscx112.26\fscy112.26\bord5.61\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.13,0:01:57.18,vuaTS,,0,0,0,,{\pos(958.64,61.27)\fscx112.33\fscy112.33\bord5.62\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.18,0:01:57.22,vuaTS,,0,0,0,,{\pos(958.61,60.91)\fscx112.42\fscy112.42\bord5.62\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.22,0:01:57.26,vuaTS,,0,0,0,,{\pos(958.67,60.54)\fscx112.51\fscy112.51\bord5.63\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.26,0:01:57.30,vuaTS,,0,0,0,,{\pos(958.62,60.21)\fscx112.58\fscy112.58\bord5.63\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.30,0:01:57.34,vuaTS,,0,0,0,,{\pos(958.57,59.91)\fscx112.65\fscy112.65\bord5.63\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.34,0:01:57.38,vuaTS,,0,0,0,,{\pos(958.57,59.6)\fscx112.72\fscy112.72\bord5.64\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.38,0:01:57.43,vuaTS,,0,0,0,,{\pos(958.58,59.3)\fscx112.79\fscy112.79\bord5.64\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.43,0:01:57.47,vuaTS,,0,0,0,,{\pos(958.53,59.03)\fscx112.85\fscy112.85\bord5.64\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.47,0:01:57.51,vuaTS,,0,0,0,,{\pos(958.52,58.76)\fscx112.91\fscy112.91\bord5.65\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.51,0:01:57.55,vuaTS,,0,0,0,,{\pos(958.53,58.51)\fscx112.97\fscy112.97\bord5.65\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.55,0:01:57.59,vuaTS,,0,0,0,,{\pos(958.47,58.3)\fscx113.02\fscy113.02\bord5.65\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.59,0:01:57.63,vuaTS,,0,0,0,,{\pos(958.45,58.1)\fscx113.06\fscy113.06\bord5.65\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.63,0:01:57.68,vuaTS,,0,0,0,,{\pos(958.47,57.88)\fscx113.11\fscy113.11\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.68,0:01:57.72,vuaTS,,0,0,0,,{\pos(958.51,57.67)\fscx113.16\fscy113.16\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.72,0:01:57.76,vuaTS,,0,0,0,,{\pos(958.48,57.51)\fscx113.2\fscy113.2\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.76,0:01:57.80,vuaTS,,0,0,0,,{\pos(958.41,57.37)\fscx113.23\fscy113.23\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.80,0:01:57.84,vuaTS,,0,0,0,,{\pos(958.31,57.26)\fscx113.24\fscy113.24\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.84,0:01:57.88,vuaTS,,0,0,0,,{\pos(958.25,57.15)\fscx113.27\fscy113.27\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.88,0:01:57.93,vuaTS,,0,0,0,,{\pos(958.31,57.02)\fscx113.3\fscy113.3\bord5.66\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.93,0:01:57.97,vuaTS,,0,0,0,,{\pos(958.4,56.9)\fscx113.33\fscy113.33\bord5.67\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 1,0:01:57.97,0:01:58.01,vuaTS,,0,0,0,,{\pos(958.44,56.82)\fscx113.36\fscy113.36\bord5.67\c&HF9FBFF&\3c&HF9FBFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.01,0:01:54.05,vuaTS,,0,0,0,,{\pos(960,114.4)\bord2\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.05,0:01:54.09,vuaTS,,0,0,0,,{\pos(959.99,113.52)\fscx100.21\fscy100.21\bord2\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.09,0:01:54.13,vuaTS,,0,0,0,,{\pos(959.95,112.66)\fscx100.41\fscy100.41\bord2.01\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.13,0:01:54.17,vuaTS,,0,0,0,,{\pos(959.96,111.77)\fscx100.61\fscy100.61\bord2.01\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.17,0:01:54.21,vuaTS,,0,0,0,,{\pos(959.92,110.89)\fscx100.82\fscy100.82\bord2.02\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.21,0:01:54.26,vuaTS,,0,0,0,,{\pos(959.92,110)\fscx101.02\fscy101.02\bord2.02\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.26,0:01:54.30,vuaTS,,0,0,0,,{\pos(959.91,109.13)\fscx101.23\fscy101.23\bord2.02\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.30,0:01:54.34,vuaTS,,0,0,0,,{\pos(959.86,108.26)\fscx101.43\fscy101.43\bord2.03\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.34,0:01:54.38,vuaTS,,0,0,0,,{\pos(959.87,107.37)\fscx101.64\fscy101.64\bord2.03\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.38,0:01:54.42,vuaTS,,0,0,0,,{\pos(959.85,106.5)\fscx101.84\fscy101.84\bord2.04\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.42,0:01:54.46,vuaTS,,0,0,0,,{\pos(959.82,105.62)\fscx102.04\fscy102.04\bord2.04\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.46,0:01:54.51,vuaTS,,0,0,0,,{\pos(959.79,104.76)\fscx102.24\fscy102.24\bord2.04\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.51,0:01:54.55,vuaTS,,0,0,0,,{\pos(959.83,103.87)\fscx102.45\fscy102.45\bord2.05\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.55,0:01:54.59,vuaTS,,0,0,0,,{\pos(959.76,103.02)\fscx102.65\fscy102.65\bord2.05\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.59,0:01:54.63,vuaTS,,0,0,0,,{\pos(959.77,102.14)\fscx102.85\fscy102.85\bord2.06\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.63,0:01:54.67,vuaTS,,0,0,0,,{\pos(959.74,101.28)\fscx103.05\fscy103.05\bord2.06\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.67,0:01:54.71,vuaTS,,0,0,0,,{\pos(959.71,100.42)\fscx103.25\fscy103.25\bord2.07\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.71,0:01:54.76,vuaTS,,0,0,0,,{\pos(959.69,99.56)\fscx103.45\fscy103.45\bord2.07\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.76,0:01:54.80,vuaTS,,0,0,0,,{\pos(959.66,98.72)\fscx103.65\fscy103.65\bord2.07\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.80,0:01:54.84,vuaTS,,0,0,0,,{\pos(959.66,97.86)\fscx103.85\fscy103.85\bord2.08\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.84,0:01:54.88,vuaTS,,0,0,0,,{\pos(959.65,97.01)\fscx104.05\fscy104.05\bord2.08\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.88,0:01:54.92,vuaTS,,0,0,0,,{\pos(959.63,96.16)\fscx104.24\fscy104.24\bord2.08\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.92,0:01:54.96,vuaTS,,0,0,0,,{\pos(959.58,95.33)\fscx104.43\fscy104.43\bord2.09\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:54.96,0:01:55.01,vuaTS,,0,0,0,,{\pos(959.56,94.5)\fscx104.63\fscy104.63\bord2.09\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.01,0:01:55.05,vuaTS,,0,0,0,,{\pos(959.58,93.65)\fscx104.83\fscy104.83\bord2.1\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.05,0:01:55.09,vuaTS,,0,0,0,,{\pos(959.53,92.84)\fscx105.01\fscy105.01\bord2.1\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.09,0:01:55.13,vuaTS,,0,0,0,,{\pos(959.5,92.02)\fscx105.2\fscy105.2\bord2.1\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.13,0:01:55.17,vuaTS,,0,0,0,,{\pos(959.5,91.2)\fscx105.4\fscy105.4\bord2.11\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.17,0:01:55.21,vuaTS,,0,0,0,,{\pos(959.47,90.38)\fscx105.58\fscy105.58\bord2.11\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.21,0:01:55.26,vuaTS,,0,0,0,,{\pos(959.46,89.58)\fscx105.77\fscy105.77\bord2.12\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.26,0:01:55.30,vuaTS,,0,0,0,,{\pos(959.44,88.79)\fscx105.96\fscy105.96\bord2.12\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.30,0:01:55.34,vuaTS,,0,0,0,,{\pos(959.41,87.98)\fscx106.14\fscy106.14\bord2.12\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.34,0:01:55.38,vuaTS,,0,0,0,,{\pos(959.4,87.18)\fscx106.33\fscy106.33\bord2.13\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.38,0:01:55.42,vuaTS,,0,0,0,,{\pos(959.38,86.41)\fscx106.51\fscy106.51\bord2.13\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.42,0:01:55.47,vuaTS,,0,0,0,,{\pos(959.37,85.63)\fscx106.69\fscy106.69\bord2.13\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.47,0:01:55.51,vuaTS,,0,0,0,,{\pos(959.35,84.86)\fscx106.87\fscy106.87\bord2.14\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.51,0:01:55.55,vuaTS,,0,0,0,,{\pos(959.35,84.09)\fscx107.05\fscy107.05\bord2.14\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.55,0:01:55.59,vuaTS,,0,0,0,,{\pos(959.32,83.34)\fscx107.22\fscy107.22\bord2.14\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.59,0:01:55.63,vuaTS,,0,0,0,,{\pos(959.29,82.59)\fscx107.4\fscy107.4\bord2.15\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.63,0:01:55.67,vuaTS,,0,0,0,,{\pos(959.3,81.83)\fscx107.57\fscy107.57\bord2.15\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.67,0:01:55.72,vuaTS,,0,0,0,,{\pos(959.28,81.1)\fscx107.74\fscy107.74\bord2.15\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.72,0:01:55.76,vuaTS,,0,0,0,,{\pos(959.25,80.38)\fscx107.91\fscy107.91\bord2.16\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.76,0:01:55.80,vuaTS,,0,0,0,,{\pos(959.25,79.65)\fscx108.08\fscy108.08\bord2.16\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.80,0:01:55.84,vuaTS,,0,0,0,,{\pos(959.21,78.95)\fscx108.24\fscy108.24\bord2.16\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.84,0:01:55.88,vuaTS,,0,0,0,,{\pos(959.22,78.23)\fscx108.41\fscy108.41\bord2.17\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.88,0:01:55.92,vuaTS,,0,0,0,,{\pos(959.2,77.54)\fscx108.57\fscy108.57\bord2.17\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.92,0:01:55.97,vuaTS,,0,0,0,,{\pos(959.19,76.85)\fscx108.73\fscy108.73\bord2.17\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:55.97,0:01:56.01,vuaTS,,0,0,0,,{\pos(959.15,76.17)\fscx108.89\fscy108.89\bord2.18\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.01,0:01:56.05,vuaTS,,0,0,0,,{\pos(959.15,75.5)\fscx109.05\fscy109.05\bord2.18\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.05,0:01:56.09,vuaTS,,0,0,0,,{\pos(959.11,74.84)\fscx109.2\fscy109.2\bord2.18\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.09,0:01:56.13,vuaTS,,0,0,0,,{\pos(959.08,74.2)\fscx109.35\fscy109.35\bord2.19\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.13,0:01:56.17,vuaTS,,0,0,0,,{\pos(959.06,73.55)\fscx109.5\fscy109.5\bord2.19\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.17,0:01:56.22,vuaTS,,0,0,0,,{\pos(959.05,72.91)\fscx109.65\fscy109.65\bord2.19\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.22,0:01:56.26,vuaTS,,0,0,0,,{\pos(959.01,72.29)\fscx109.79\fscy109.79\bord2.2\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.26,0:01:56.30,vuaTS,,0,0,0,,{\pos(959.01,71.67)\fscx109.93\fscy109.93\bord2.2\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.30,0:01:56.34,vuaTS,,0,0,0,,{\pos(958.98,71.07)\fscx110.07\fscy110.07\bord2.2\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.34,0:01:56.38,vuaTS,,0,0,0,,{\pos(958.99,70.47)\fscx110.21\fscy110.21\bord2.2\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.38,0:01:56.42,vuaTS,,0,0,0,,{\pos(958.98,69.88)\fscx110.35\fscy110.35\bord2.21\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.42,0:01:56.47,vuaTS,,0,0,0,,{\pos(958.97,69.3)\fscx110.48\fscy110.48\bord2.21\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.47,0:01:56.51,vuaTS,,0,0,0,,{\pos(958.96,68.73)\fscx110.62\fscy110.62\bord2.21\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.51,0:01:56.55,vuaTS,,0,0,0,,{\pos(958.96,68.17)\fscx110.75\fscy110.75\bord2.21\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.55,0:01:56.59,vuaTS,,0,0,0,,{\pos(958.93,67.63)\fscx110.87\fscy110.87\bord2.22\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.59,0:01:56.63,vuaTS,,0,0,0,,{\pos(958.91,67.09)\fscx111\fscy111\bord2.22\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.63,0:01:56.67,vuaTS,,0,0,0,,{\pos(958.9,66.57)\fscx111.11\fscy111.11\bord2.22\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.67,0:01:56.72,vuaTS,,0,0,0,,{\pos(958.87,66.07)\fscx111.23\fscy111.23\bord2.22\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.72,0:01:56.76,vuaTS,,0,0,0,,{\pos(958.85,65.57)\fscx111.35\fscy111.35\bord2.23\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.76,0:01:56.80,vuaTS,,0,0,0,,{\pos(958.83,65.07)\fscx111.46\fscy111.46\bord2.23\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.80,0:01:56.84,vuaTS,,0,0,0,,{\pos(958.81,64.61)\fscx111.57\fscy111.57\bord2.23\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.84,0:01:56.88,vuaTS,,0,0,0,,{\pos(958.8,64.14)\fscx111.68\fscy111.68\bord2.23\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.88,0:01:56.92,vuaTS,,0,0,0,,{\pos(958.78,63.69)\fscx111.78\fscy111.78\bord2.24\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.92,0:01:56.97,vuaTS,,0,0,0,,{\pos(958.74,63.26)\fscx111.88\fscy111.88\bord2.24\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:56.97,0:01:57.01,vuaTS,,0,0,0,,{\pos(958.76,62.82)\fscx111.98\fscy111.98\bord2.24\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.01,0:01:57.05,vuaTS,,0,0,0,,{\pos(958.71,62.43)\fscx112.07\fscy112.07\bord2.24\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.05,0:01:57.09,vuaTS,,0,0,0,,{\pos(958.66,62.04)\fscx112.16\fscy112.16\bord2.24\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.09,0:01:57.13,vuaTS,,0,0,0,,{\pos(958.71,61.62)\fscx112.26\fscy112.26\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.13,0:01:57.18,vuaTS,,0,0,0,,{\pos(958.64,61.27)\fscx112.33\fscy112.33\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.18,0:01:57.22,vuaTS,,0,0,0,,{\pos(958.61,60.91)\fscx112.42\fscy112.42\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.22,0:01:57.26,vuaTS,,0,0,0,,{\pos(958.67,60.54)\fscx112.51\fscy112.51\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.26,0:01:57.30,vuaTS,,0,0,0,,{\pos(958.62,60.21)\fscx112.58\fscy112.58\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.30,0:01:57.34,vuaTS,,0,0,0,,{\pos(958.57,59.91)\fscx112.65\fscy112.65\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.34,0:01:57.38,vuaTS,,0,0,0,,{\pos(958.57,59.6)\fscx112.72\fscy112.72\bord2.25\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.38,0:01:57.43,vuaTS,,0,0,0,,{\pos(958.58,59.3)\fscx112.79\fscy112.79\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.43,0:01:57.47,vuaTS,,0,0,0,,{\pos(958.53,59.03)\fscx112.85\fscy112.85\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.47,0:01:57.51,vuaTS,,0,0,0,,{\pos(958.52,58.76)\fscx112.91\fscy112.91\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.51,0:01:57.55,vuaTS,,0,0,0,,{\pos(958.53,58.51)\fscx112.97\fscy112.97\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.55,0:01:57.59,vuaTS,,0,0,0,,{\pos(958.47,58.3)\fscx113.02\fscy113.02\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.59,0:01:57.63,vuaTS,,0,0,0,,{\pos(958.45,58.1)\fscx113.06\fscy113.06\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.63,0:01:57.68,vuaTS,,0,0,0,,{\pos(958.47,57.88)\fscx113.11\fscy113.11\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.68,0:01:57.72,vuaTS,,0,0,0,,{\pos(958.51,57.67)\fscx113.16\fscy113.16\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.72,0:01:57.76,vuaTS,,0,0,0,,{\pos(958.48,57.51)\fscx113.2\fscy113.2\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.76,0:01:57.80,vuaTS,,0,0,0,,{\pos(958.41,57.37)\fscx113.23\fscy113.23\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.80,0:01:57.84,vuaTS,,0,0,0,,{\pos(958.31,57.26)\fscx113.24\fscy113.24\bord2.26\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.84,0:01:57.88,vuaTS,,0,0,0,,{\pos(958.25,57.15)\fscx113.27\fscy113.27\bord2.27\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.88,0:01:57.93,vuaTS,,0,0,0,,{\pos(958.31,57.02)\fscx113.3\fscy113.3\bord2.27\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.93,0:01:57.97,vuaTS,,0,0,0,,{\pos(958.4,56.9)\fscx113.33\fscy113.33\bord2.27\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 2,0:01:57.97,0:01:58.01,vuaTS,,0,0,0,,{\pos(958.44,56.82)\fscx113.36\fscy113.36\bord2.27\c&H0854E0&\3c&H0854E0&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.01,0:01:54.05,vuaTS,,0,0,0,,{\pos(960,114.4)\c&H2DBFFA&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.05,0:01:54.09,vuaTS,,0,0,0,,{\pos(959.99,113.52)\fscx100.21\fscy100.21\c&H2DBFFA&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.09,0:01:54.13,vuaTS,,0,0,0,,{\pos(959.95,112.66)\fscx100.41\fscy100.41\c&H2DBFFA&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.13,0:01:54.17,vuaTS,,0,0,0,,{\pos(959.96,111.77)\fscx100.61\fscy100.61\c&H2DBFFA&\4a&HFF&\blur0.8}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.17,0:01:54.21,vuaTS,,0,0,0,,{\pos(959.92,110.89)\fscx100.82\fscy100.82\c&H2DBFFA&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.21,0:01:54.26,vuaTS,,0,0,0,,{\pos(959.92,110)\fscx101.02\fscy101.02\c&H2DBFFA&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.26,0:01:54.30,vuaTS,,0,0,0,,{\pos(959.91,109.13)\fscx101.23\fscy101.23\c&H2DBFFA&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.30,0:01:54.34,vuaTS,,0,0,0,,{\pos(959.86,108.26)\fscx101.43\fscy101.43\c&H2DBFFA&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.34,0:01:54.38,vuaTS,,0,0,0,,{\pos(959.87,107.37)\fscx101.64\fscy101.64\c&H2DBFFA&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.38,0:01:54.42,vuaTS,,0,0,0,,{\pos(959.85,106.5)\fscx101.84\fscy101.84\c&H2DBFFA&\4a&HFF&\blur0.81}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.42,0:01:54.46,vuaTS,,0,0,0,,{\pos(959.82,105.62)\fscx102.04\fscy102.04\c&H2DBFFA&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.46,0:01:54.51,vuaTS,,0,0,0,,{\pos(959.79,104.76)\fscx102.24\fscy102.24\c&H2DBFFA&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.51,0:01:54.55,vuaTS,,0,0,0,,{\pos(959.83,103.87)\fscx102.45\fscy102.45\c&H2DBFFA&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.55,0:01:54.59,vuaTS,,0,0,0,,{\pos(959.76,103.02)\fscx102.65\fscy102.65\c&H2DBFFA&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.59,0:01:54.63,vuaTS,,0,0,0,,{\pos(959.77,102.14)\fscx102.85\fscy102.85\c&H2DBFFA&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.63,0:01:54.67,vuaTS,,0,0,0,,{\pos(959.74,101.28)\fscx103.05\fscy103.05\c&H2DBFFA&\4a&HFF&\blur0.82}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.67,0:01:54.71,vuaTS,,0,0,0,,{\pos(959.71,100.42)\fscx103.25\fscy103.25\c&H2DBFFA&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.71,0:01:54.76,vuaTS,,0,0,0,,{\pos(959.69,99.56)\fscx103.45\fscy103.45\c&H2DBFFA&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.76,0:01:54.80,vuaTS,,0,0,0,,{\pos(959.66,98.72)\fscx103.65\fscy103.65\c&H2DBFFA&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.80,0:01:54.84,vuaTS,,0,0,0,,{\pos(959.66,97.86)\fscx103.85\fscy103.85\c&H2DBFFA&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.84,0:01:54.88,vuaTS,,0,0,0,,{\pos(959.65,97.01)\fscx104.05\fscy104.05\c&H2DBFFA&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.88,0:01:54.92,vuaTS,,0,0,0,,{\pos(959.63,96.16)\fscx104.24\fscy104.24\c&H2DBFFA&\4a&HFF&\blur0.83}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.92,0:01:54.96,vuaTS,,0,0,0,,{\pos(959.58,95.33)\fscx104.43\fscy104.43\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:54.96,0:01:55.01,vuaTS,,0,0,0,,{\pos(959.56,94.5)\fscx104.63\fscy104.63\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.01,0:01:55.05,vuaTS,,0,0,0,,{\pos(959.58,93.65)\fscx104.83\fscy104.83\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.05,0:01:55.09,vuaTS,,0,0,0,,{\pos(959.53,92.84)\fscx105.01\fscy105.01\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.09,0:01:55.13,vuaTS,,0,0,0,,{\pos(959.5,92.02)\fscx105.2\fscy105.2\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.13,0:01:55.17,vuaTS,,0,0,0,,{\pos(959.5,91.2)\fscx105.4\fscy105.4\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.17,0:01:55.21,vuaTS,,0,0,0,,{\pos(959.47,90.38)\fscx105.58\fscy105.58\c&H2DBFFA&\4a&HFF&\blur0.84}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.21,0:01:55.26,vuaTS,,0,0,0,,{\pos(959.46,89.58)\fscx105.77\fscy105.77\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.26,0:01:55.30,vuaTS,,0,0,0,,{\pos(959.44,88.79)\fscx105.96\fscy105.96\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.30,0:01:55.34,vuaTS,,0,0,0,,{\pos(959.41,87.98)\fscx106.14\fscy106.14\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.34,0:01:55.38,vuaTS,,0,0,0,,{\pos(959.4,87.18)\fscx106.33\fscy106.33\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.38,0:01:55.42,vuaTS,,0,0,0,,{\pos(959.38,86.41)\fscx106.51\fscy106.51\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.42,0:01:55.47,vuaTS,,0,0,0,,{\pos(959.37,85.63)\fscx106.69\fscy106.69\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.47,0:01:55.51,vuaTS,,0,0,0,,{\pos(959.35,84.86)\fscx106.87\fscy106.87\c&H2DBFFA&\4a&HFF&\blur0.85}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.51,0:01:55.55,vuaTS,,0,0,0,,{\pos(959.35,84.09)\fscx107.05\fscy107.05\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.55,0:01:55.59,vuaTS,,0,0,0,,{\pos(959.32,83.34)\fscx107.22\fscy107.22\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.59,0:01:55.63,vuaTS,,0,0,0,,{\pos(959.29,82.59)\fscx107.4\fscy107.4\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.63,0:01:55.67,vuaTS,,0,0,0,,{\pos(959.3,81.83)\fscx107.57\fscy107.57\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.67,0:01:55.72,vuaTS,,0,0,0,,{\pos(959.28,81.1)\fscx107.74\fscy107.74\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.72,0:01:55.76,vuaTS,,0,0,0,,{\pos(959.25,80.38)\fscx107.91\fscy107.91\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.76,0:01:55.80,vuaTS,,0,0,0,,{\pos(959.25,79.65)\fscx108.08\fscy108.08\c&H2DBFFA&\4a&HFF&\blur0.86}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.80,0:01:55.84,vuaTS,,0,0,0,,{\pos(959.21,78.95)\fscx108.24\fscy108.24\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.84,0:01:55.88,vuaTS,,0,0,0,,{\pos(959.22,78.23)\fscx108.41\fscy108.41\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.88,0:01:55.92,vuaTS,,0,0,0,,{\pos(959.2,77.54)\fscx108.57\fscy108.57\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.92,0:01:55.97,vuaTS,,0,0,0,,{\pos(959.19,76.85)\fscx108.73\fscy108.73\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:55.97,0:01:56.01,vuaTS,,0,0,0,,{\pos(959.15,76.17)\fscx108.89\fscy108.89\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.01,0:01:56.05,vuaTS,,0,0,0,,{\pos(959.15,75.5)\fscx109.05\fscy109.05\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.05,0:01:56.09,vuaTS,,0,0,0,,{\pos(959.11,74.84)\fscx109.2\fscy109.2\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.09,0:01:56.13,vuaTS,,0,0,0,,{\pos(959.08,74.2)\fscx109.35\fscy109.35\c&H2DBFFA&\4a&HFF&\blur0.87}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.13,0:01:56.17,vuaTS,,0,0,0,,{\pos(959.06,73.55)\fscx109.5\fscy109.5\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.17,0:01:56.22,vuaTS,,0,0,0,,{\pos(959.05,72.91)\fscx109.65\fscy109.65\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.22,0:01:56.26,vuaTS,,0,0,0,,{\pos(959.01,72.29)\fscx109.79\fscy109.79\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.26,0:01:56.30,vuaTS,,0,0,0,,{\pos(959.01,71.67)\fscx109.93\fscy109.93\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.30,0:01:56.34,vuaTS,,0,0,0,,{\pos(958.98,71.07)\fscx110.07\fscy110.07\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.34,0:01:56.38,vuaTS,,0,0,0,,{\pos(958.99,70.47)\fscx110.21\fscy110.21\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.38,0:01:56.42,vuaTS,,0,0,0,,{\pos(958.98,69.88)\fscx110.35\fscy110.35\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.42,0:01:56.47,vuaTS,,0,0,0,,{\pos(958.97,69.3)\fscx110.48\fscy110.48\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.47,0:01:56.51,vuaTS,,0,0,0,,{\pos(958.96,68.73)\fscx110.62\fscy110.62\c&H2DBFFA&\4a&HFF&\blur0.88}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.51,0:01:56.55,vuaTS,,0,0,0,,{\pos(958.96,68.17)\fscx110.75\fscy110.75\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.55,0:01:56.59,vuaTS,,0,0,0,,{\pos(958.93,67.63)\fscx110.87\fscy110.87\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.59,0:01:56.63,vuaTS,,0,0,0,,{\pos(958.91,67.09)\fscx111\fscy111\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.63,0:01:56.67,vuaTS,,0,0,0,,{\pos(958.9,66.57)\fscx111.11\fscy111.11\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.67,0:01:56.72,vuaTS,,0,0,0,,{\pos(958.87,66.07)\fscx111.23\fscy111.23\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.72,0:01:56.76,vuaTS,,0,0,0,,{\pos(958.85,65.57)\fscx111.35\fscy111.35\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.76,0:01:56.80,vuaTS,,0,0,0,,{\pos(958.83,65.07)\fscx111.46\fscy111.46\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.80,0:01:56.84,vuaTS,,0,0,0,,{\pos(958.81,64.61)\fscx111.57\fscy111.57\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.84,0:01:56.88,vuaTS,,0,0,0,,{\pos(958.8,64.14)\fscx111.68\fscy111.68\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.88,0:01:56.92,vuaTS,,0,0,0,,{\pos(958.78,63.69)\fscx111.78\fscy111.78\c&H2DBFFA&\4a&HFF&\blur0.89}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.92,0:01:56.97,vuaTS,,0,0,0,,{\pos(958.74,63.26)\fscx111.88\fscy111.88\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:56.97,0:01:57.01,vuaTS,,0,0,0,,{\pos(958.76,62.82)\fscx111.98\fscy111.98\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.01,0:01:57.05,vuaTS,,0,0,0,,{\pos(958.71,62.43)\fscx112.07\fscy112.07\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.05,0:01:57.09,vuaTS,,0,0,0,,{\pos(958.66,62.04)\fscx112.16\fscy112.16\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.09,0:01:57.13,vuaTS,,0,0,0,,{\pos(958.71,61.62)\fscx112.26\fscy112.26\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.13,0:01:57.18,vuaTS,,0,0,0,,{\pos(958.64,61.27)\fscx112.33\fscy112.33\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.18,0:01:57.22,vuaTS,,0,0,0,,{\pos(958.61,60.91)\fscx112.42\fscy112.42\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.22,0:01:57.26,vuaTS,,0,0,0,,{\pos(958.67,60.54)\fscx112.51\fscy112.51\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.26,0:01:57.30,vuaTS,,0,0,0,,{\pos(958.62,60.21)\fscx112.58\fscy112.58\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.30,0:01:57.34,vuaTS,,0,0,0,,{\pos(958.57,59.91)\fscx112.65\fscy112.65\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.34,0:01:57.38,vuaTS,,0,0,0,,{\pos(958.57,59.6)\fscx112.72\fscy112.72\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.38,0:01:57.43,vuaTS,,0,0,0,,{\pos(958.58,59.3)\fscx112.79\fscy112.79\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.43,0:01:57.47,vuaTS,,0,0,0,,{\pos(958.53,59.03)\fscx112.85\fscy112.85\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.47,0:01:57.51,vuaTS,,0,0,0,,{\pos(958.52,58.76)\fscx112.91\fscy112.91\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.51,0:01:57.55,vuaTS,,0,0,0,,{\pos(958.53,58.51)\fscx112.97\fscy112.97\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.55,0:01:57.59,vuaTS,,0,0,0,,{\pos(958.47,58.3)\fscx113.02\fscy113.02\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.59,0:01:57.63,vuaTS,,0,0,0,,{\pos(958.45,58.1)\fscx113.06\fscy113.06\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.63,0:01:57.68,vuaTS,,0,0,0,,{\pos(958.47,57.88)\fscx113.11\fscy113.11\c&H2DBFFA&\4a&HFF&\blur0.9}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.68,0:01:57.72,vuaTS,,0,0,0,,{\pos(958.51,57.67)\fscx113.16\fscy113.16\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.72,0:01:57.76,vuaTS,,0,0,0,,{\pos(958.48,57.51)\fscx113.2\fscy113.2\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.76,0:01:57.80,vuaTS,,0,0,0,,{\pos(958.41,57.37)\fscx113.23\fscy113.23\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.80,0:01:57.84,vuaTS,,0,0,0,,{\pos(958.31,57.26)\fscx113.24\fscy113.24\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.84,0:01:57.88,vuaTS,,0,0,0,,{\pos(958.25,57.15)\fscx113.27\fscy113.27\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.88,0:01:57.93,vuaTS,,0,0,0,,{\pos(958.31,57.02)\fscx113.3\fscy113.3\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.93,0:01:57.97,vuaTS,,0,0,0,,{\pos(958.4,56.9)\fscx113.33\fscy113.33\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 3,0:01:57.97,0:01:58.01,vuaTS,,0,0,0,,{\pos(958.44,56.82)\fscx113.36\fscy113.36\c&H2DBFFA&\4a&HFF&\blur0.91}Münzevi Vampir Prensesin Talihsizlikleri
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H0CC0D7&\blur0.6\fad(522,0)\clip(262,902,942,905)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H12C8DD&\blur0.6\fad(522,0)\clip(262,905,942,908)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H17D0E3&\blur0.6\fad(522,0)\clip(262,908,942,911)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H1DD9EA&\blur0.6\fad(522,0)\clip(262,911,942,914)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H1DD9EA&\blur0.6\fad(522,0)\clip(262,914,942,917)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H34DDEE&\blur0.6\fad(522,0)\clip(262,917,942,920)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H4BE2F2&\blur0.6\fad(522,0)\clip(262,920,942,923)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H62E7F6&\blur0.6\fad(522,0)\clip(262,923,942,926)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H7AECFB&\blur0.6\fad(522,0)\clip(262,926,942,929)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H7AECFB&\blur0.6\fad(522,0)\clip(262,929,942,932)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H87EDFA&\blur0.6\fad(522,0)\clip(262,932,942,935)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&H94EFFA&\blur0.6\fad(522,0)\clip(262,935,942,938)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&HA1F1F9&\blur0.6\fad(522,0)\clip(262,938,942,941)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&HAEF3F9&\blur0.6\fad(522,0)\clip(262,941,942,944)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&HAEF3F9&\blur0.6\fad(522,0)\clip(262,944,942,947)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&HC4F5FA&\blur0.6\fad(522,0)\clip(262,947,942,950)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:01:59.89,0:02:05.64,vuaTS,,0,0,0,,{\pos(602,922.6)\fs64\c&HDAF8FC&\blur0.6\fad(522,0)\clip(262,950,942,953)}Münzevi Vampir Dışarı Çıkar
+Dialogue: 0,0:12:19.17,0:12:19.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.17,0:12:19.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:19.30,0:12:19.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.30,0:12:19.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:19.43,0:12:19.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.43,0:12:19.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:19.55,0:12:19.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.55,0:12:19.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:19.68,0:12:19.80,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.68,0:12:19.80,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:19.80,0:12:19.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.80,0:12:19.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:19.93,0:12:20.05,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:19.93,0:12:20.05,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.05,0:12:20.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.05,0:12:20.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.18,0:12:20.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.18,0:12:20.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.30,0:12:20.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.30,0:12:20.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.43,0:12:20.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.43,0:12:20.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.55,0:12:20.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.55,0:12:20.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.68,0:12:20.80,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.68,0:12:20.80,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.80,0:12:20.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.80,0:12:20.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:20.93,0:12:21.05,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:20.93,0:12:21.05,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.05,0:12:21.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.05,0:12:21.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.18,0:12:21.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.18,0:12:21.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.30,0:12:21.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.30,0:12:21.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.43,0:12:21.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.43,0:12:21.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.55,0:12:21.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.55,0:12:21.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.68,0:12:21.80,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.68,0:12:21.80,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.80,0:12:21.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.80,0:12:21.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:21.93,0:12:22.05,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:21.93,0:12:22.05,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.05,0:12:22.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.05,0:12:22.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.18,0:12:22.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.18,0:12:22.30,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.30,0:12:22.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.30,0:12:22.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.43,0:12:22.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.43,0:12:22.55,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.55,0:12:22.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.55,0:12:22.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.68,0:12:22.81,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.68,0:12:22.81,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.81,0:12:22.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.81,0:12:22.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:22.93,0:12:23.06,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:22.93,0:12:23.06,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.06,0:12:23.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.06,0:12:23.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.18,0:12:23.31,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.18,0:12:23.31,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.31,0:12:23.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.31,0:12:23.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.43,0:12:23.56,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.43,0:12:23.56,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.56,0:12:23.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.56,0:12:23.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.68,0:12:23.81,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.68,0:12:23.81,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.81,0:12:23.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.81,0:12:23.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:23.93,0:12:24.06,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:23.93,0:12:24.06,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.06,0:12:24.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.06,0:12:24.18,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.18,0:12:24.31,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.18,0:12:24.31,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.31,0:12:24.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.31,0:12:24.43,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.43,0:12:24.56,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.43,0:12:24.56,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.56,0:12:24.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.56,0:12:24.68,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.68,0:12:24.81,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.68,0:12:24.81,vuaTS,,0,0,0,,{\pos(1455.97,711)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:12:24.81,0:12:24.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\bord1.5\c&H000000&\3a&H2B&\blur0.6}Bir zamanlar Yohan'dı
+Dialogue: 1,0:12:24.81,0:12:24.93,vuaTS,,0,0,0,,{\pos(1457.97,713)\fnKG Love Somebody\fs60\c&HE7EEF8&\3a&H2B&\4a&HFF&\blur0.4}Bir zamanlar Yohan'dı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H000000&\alpha&HF0&\blur3}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H000000&\alpha&H20&\blur3}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H0808BE&\blur0.6\clip(457,618,899,620)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H0E0FC0&\blur0.6\clip(457,620,899,622)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H1415C2&\blur0.6\clip(457,622,899,624)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H191AC3&\blur0.6\clip(457,624,899,626)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H1E1FC5&\blur0.6\clip(457,626,899,628)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H2324C6&\blur0.6\clip(457,628,899,630)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H2829C8&\blur0.6\clip(457,630,899,632)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H2C2EC9&\blur0.6\clip(457,632,899,634)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H3133CB&\blur0.6\clip(457,634,899,636)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H3133CB&\blur0.6\clip(457,636,899,638)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H4042CE&\blur0.6\clip(457,638,899,640)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H4B4DD1&\blur0.6\clip(457,640,899,642)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H5557D4&\blur0.6\clip(457,642,899,644)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H5E60D6&\blur0.6\clip(457,644,899,646)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H6769D8&\blur0.6\clip(457,646,899,648)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H6F71DA&\blur0.6\clip(457,648,899,650)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H787ADC&\blur0.6\clip(457,650,899,652)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H8082DF&\blur0.6\clip(457,652,899,654)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H888AE1&\blur0.6\clip(457,654,899,656)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H888AE1&\blur0.6\clip(457,656,899,658)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&H999BE5&\blur0.6\clip(457,658,899,660)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HA6A8E9&\blur0.6\clip(457,660,899,662)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HB2B3EC&\blur0.6\clip(457,662,899,664)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HBDBEEF&\blur0.6\clip(457,664,899,666)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HC8C8F2&\blur0.6\clip(457,666,899,668)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HD2D2F5&\blur0.6\clip(457,668,899,670)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HDCDBF7&\blur0.6\clip(457,670,899,672)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HE5E5FA&\blur0.6\clip(457,672,899,674)}Başkaldırı
+Dialogue: 0,0:23:36.19,0:23:40.07,vuaTS,,0,0,0,,{\pos(678,645.67)\c&HEFEEFD&\blur0.6\clip(457,674,899,690.03)}Başkaldırı
